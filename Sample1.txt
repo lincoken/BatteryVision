@@ -1,0 +1,603 @@
+
+Log In  Register
+ 
+Cart
+ACS
+ 
+ACS Publications
+ 
+C&EN
+ 
+CAS
+ ACS Publications
+ACS Journals 
+ 
+ACS eBooks 
+ 
+C&EN Global Enterprise
+ ACS Nano
+Advanced Search
+Search
+ 
+Citation
+ 
+Subject
+ 
+Enter search text / DOI
+ Search in:
+ ACS Nano    All Publications/Website
+Subscriber access provided by BRIGHAM YOUNG UNIV
+Home
+ 
+Browse the Journal
+ 
+Articles ASAP
+ 
+Current Issue
+ 
+Submission & Review
+ 
+Open Access
+ 
+About the Journal
+Article
+Previous Article
+ 
+Next Article
+ 
+Table of Contents
+A Carbon-Cotton Cathode with Ultrahigh-Loading Capability for Statically and Dynamically Stable Lithium–Sulfur Batteries
+Sheng-Heng Chung, Chi-Hao Chang, and Arumugam Manthiram*
+Materials Science and Engineering Program and Texas Materials Institute, The University of Texas at Austin, Austin, Texas 78712, United States
+ACS Nano, 2016, 10 (11), pp 10462–10470
+DOI: 10.1021/acsnano.6b06369
+Publication Date (Web): October 26, 2016
+Copyright © 2016 American Chemical Society
+*E-mail: manth@austin.utexas.edu.
+Cite this:ACS Nano 2016,  10, 11, 10462-10470
+
+Abstract
+Abstract Image
+Sulfur exhibits a high theoretical capacity of 1675 mA h g–1 via a distinct conversion reaction, which is different from the insertion reactions in commercial lithium-ion batteries. In consideration of its conversion-reaction battery chemistry, a custom design for electrode materials could establish the way for attaining high-loading capability while simultaneously maintaining high electrochemical utilization and stability. In this study, this process is undertaken by introducing carbon cotton as an attractive electrode-containment material for enhancing the dynamic and static stabilities of lithium–sulfur (Li–S) batteries. The carbon cotton possessing a hierarchical macro-/microporous architecture exhibits a high surface area of 805 m2 g–1 and high microporosity with a micropore area of 557 m2 g–1. The macroporous channels allow the carbon cotton to load and stabilize a high amount of active material. The abundant microporous reaction sites spread throughout the carbon cotton facilitate the redox chemistry of the high-loading/content Li–S system. As a result, the high-loading carbon-cotton cathode exhibits (i) enhanced cycle stability with a good dynamic capacity retention of 70% after 100 cycles and (ii) improved cell-storage stability with a high static capacity retention of above 93% and a low time-dependent self-discharge rate of 0.12% per day after storing for a long period of 60 days. These carbon-cotton cathodes with the remarkably highest values reported so far of both sulfur loading (61.4 mg cm–2) and sulfur content (80 wt %) demonstrate enhanced electrochemical utilization with the highest areal, volumetric, and gravimetric capacities simultaneously.
+
+Keywords: electrochemistry; high capacity; high-loading electrode; lithium-sulfur batteries; porous carbon; self-discharge
+With the ever-increasing demand for energy density, the performance of lithium-ion batteries has been steadily improving.(1) As a mature technology, the insertion-compound electrode hosts used in commercial lithium-ion batteries are reaching their maximum charge-storage capacities.(1-4) Going beyond lithium-ion chemistry, a high-capacity sulfur cathode coupled with a lithium–metal anode could offer a high-energy density of 400–600 Wh kg–1. This conversion-reaction battery chemistry has the potential to offer 2–3 times higher energy density than the commercial lithium-ion batteries.(2-4)
+In terms of battery chemistry, the lithium–sulfur (Li–S) system is known for its complex chemical and electrochemical processes.(5-10) At the cathode, the insulating sulfur and lithium sulfide cause low electrochemical utilization of the overall capacity.(3-7) Porous carbons and functional polymers have been developed to encapsulate and bond sulfur to form nanocomposites. Sulfur-based nanocomposites must be well mixed with additional conductive carbons to reduce cathode resistance, while these processes reduce the sulfur content and limit the sulfur loading.(3, 4, 8-10) The conversion between sulfur and lithium sulfide involves the formation of polysulfide intermediates (Li2S4–8), which are soluble in the liquid electrolyte used.(5-7) The dissolved polysulfides with high electrochemical activity function as catholytes to facilitate the redox reaction.(11, 12) This implies that electrolyte/catholyte stability should be well designed for boosting the electrochemical-conversion chemistry. However, dissolved polysulfides easily diffuse out from the cathode side and migrate toward the anode side. The polysulfide diffusion leads to active-material loss, lithium–metal corrosion, and insulating Li2S2/Li2S deposition on electrode surface during cell cycling and resting.(5, 7) Electrode instability leads to both dynamic and static irreversible capacity loss.(5-7, 13, 14) In an effort to minimize these negative effects, a variety of cathode architectures have been put forward to retain polysulfides at the cathode side. Polar hosts,(15-18) functional separators,(19-25) polysulfide traps,(26-29) and structural electrodes(30-36) have been employed to offer a long cycle life(35-40) and a low self-discharge effect.(41-43)
+Compared to the efforts dedicated to improving the cell cyclability, there is less progress on increasing the high-loading capability in the Li–S system.(9, 14, 37-40, 44, 45) The Li–S battery chemistry involves (i) a solid(sulfur)–liquid(polysulfides)–solid(sulfides) conversion, (ii) active-material rearrangement, and (iii) a cathode-volume change of 80%.(2-7) Coupled with polysulfide diffusion, the electrode instability challenges the development of high-loading sulfur cathodes.(9, 14, 37-40) Moreover, the thickness of the conventional sulfur cathodes is usually <30 µm, which is thinner than that used in Li-ion batteries (>100 µm).(2, 37) A thicker conventional electrode coating for sulfur cathodes has, unfortunately, proved that it is difficult to attain good electrode integrity.(36-39) Given that a traditional Li-ion cathode configuration is not ideal for a Li–S battery, advanced electrode materials with stereoscopic architectures and high flexibility have recently been developed for realizing a high sulfur loading of above 10 mg cm–2 and for achieving a high areal capacity.(4, 36-40) The remaining challenges are how to simultaneously improve the sulfur loading and maintain the necessary dynamic and static cell stabilities via the electrode design in order to take advantage of the high-energy density of Li–S batteries for practical applications.(37-45)
+In this study, a flexible carbon-cotton cathode is designed as an attractive electrode-containment material for enhancing the dynamic and static stabilities of a high-loading cathode system. The dynamically and statically stable battery chemistries exhibit, respectively, an excellent capacity retention of 70% after 100 cycles and a low time-dependent self-discharge rate of 0.12% per day after resting for 60 days. The ultrahigh-loading carbon cotton realizing a good balance between sulfur loading (61.4 mg cm–2) and sulfur content (80 wt %) demonstrates the highest areal capacity (56 mA h cm–2), volumetric capacity (1121 mA h cm–3), and gravimetric capacity (724 mA h g–1). To the best of our knowledge, the Li–S batteries presented here with a carbon-cotton cathode exhibit the highest sulfur loading/content and promising dynamic and static battery performances among the results reported in the literature. The enhanced high-loading capacity is up to 3 times higher than the highest values reported in the literature, as shown in Figure 1a,b (see Tables S1 and S2 in the Supporting Information).(30-43)
+figure
+Figure 1. Comparative analysis of the cell parameters of the carbon-cotton cathodes with those of the reported Li–S batteries, investigating (a) high-loading cathodes and (b) self-discharge effect. (c) Schematic of the fabrication process of the carbon-cotton cathode. Digital and SEM images of (d) cotton and (e) carbon cotton.
+
+Results and Discussion
+Morphology and Microstructure of Carbon-Cotton Cathodes
+Figure 1c illustrates the preparation process of the flexible carbon-cotton cathode. Cotton was carbonized at 900 °C for 6 h under an argon atmosphere to form the carbon cotton (Figure 1d,e). The carbon cotton has a well-maintained porous structure and good mechanical strength. The high flexibility and durability allow the carbon cotton to be bent, rolled, and kneaded, still maintaining good integrity (see Figure S1 in the Supporting Information). This suggests that the carbon cotton could accommodate a high amount of active material and tolerate the volume changes.(37-45) The microstructure of the carbon cottons was observed with scanning electron microscopy (SEM, Figure 2a and Figure S2 in the Supporting Information). The carbon cotton has spiral carbon fibers woven into a long-range conductive network, which ensures a high electrode integrity and fast electron pathways. The spiral carbon fibers armored with nanosized slit pores provide a high surface area of 805 m2 g–1 and high microporosity. Micropores spread throughout the carbon fibers have an estimated pore size of 1 nm and a high micropore area of 557 m2 g–1 (see Table S3 and Figure S3 in the Supporting Information). The carbon skeleton provides a hierarchical macro-/microporous architecture. The large macropore volume allows the carbon cotton to load with and stabilize a high amount of active material.(30-32, 45) The abundant microporous reaction sites facilitate the redox chemistry of the high-loading/content carbon-cotton cathodes.(32, 45)
+figure
+Figure 2. Microstructural inspections of (a) carbon cotton, (b) cycled carbon-cotton cathodes after 100 cycles, and (c) rested carbon-cotton cathodes after 60 days. Electrochemical performances of the carbon-cotton cathodes: (d,e) dynamic battery stability at C/10 and C/5 rates [the rectangles in (d) indicate the activation processes] and (f) static battery stability after resting for 60 days.
+
+Dynamic and Static Battery Performances
+To adopt the hierarchical macro-/microporous architecture, the carbon cottons were used as the electrode-containment material in a Li–S cell with polysulfide (Li2S6) catholyte as the starting active material.(32, 46) The carbon-cotton cathodes loaded with a high sulfur loading of 30.7 mg cm–2 have a sulfur content of 80 wt %. Figure 2b shows the morphological and elemental changes in the carbon-cotton cathodes after 100 cycles. On the other hand, Figure 2c shows the microstructural changes in the carbon-cotton cathodes after resting for 60 days. Both cycled and rested carbon-cotton cathodes exhibit a well-maintained coalescing carbon-fiber network and porous channels. No agglomerated active material covers the carbon-cotton cathodes nor blocks their porous catholyte channels, as compared to those observed with the pristine carbon cotton. Thus, the unblocked conductive carbon-fiber network and the macroporous electrolyte channels supply smooth electron and ion pathways to the active material stabilized within the carbon-cotton cathode.(30, 32, 42) The elemental mapping results display the high intensity of sulfur signals and their uniform dispersion within the carbon-cotton matrix, demonstrating the excellent encapsulation of a high amount of active material within the carbon-cotton cathodes. Under a high-magnification observation (see Figures S4–S6 in the Supporting Information), the cycled and rested carbon-cotton cathodes show that their spiral carbon fibers are characterized by the recrystallization and infiltration of the sulfur-containing species. A close connection between the active material and the conductive skeleton, offering a fast electron pathway, enhances the redox reaction kinetics.(14, 30-34) Coupled with a highly accessible reaction area and stereoscopic electrolyte channels, the carbon-cotton cathodes facilitate and persevere the high-loading/content active material with excellent redox chemistry during, respectively, dynamic cell cycling and static cell resting.(41-43, 45-49)
+The enhanced high-loading Li–S battery chemistries brought about by the carbon-cotton cathodes were studied by examining the dynamic and static battery performances. Figure 2d shows the dynamic battery performances of the carbon-cotton cathodes with high sulfur loading and content of, respectively, 30.7 mg cm–2 and 80 wt %. The cells have peak discharge capacities of 1173 and 905 mA h g–1 at C/10 and C/5 rates. Before reaching the peak capacities, the cells exhibit an increase in charge-storage capacities during the initial 5 and 14 cycles at, respectively, C/10 and C/5 rates, as shown in rectangles in Figure 2d. The initial capacity increase is attributed to the activation of high-loading active material.(36) During this process, the active material rearranges to electrochemically favorable positions within the carbon-cotton cathodes so as to improve the reaction kinetics. Therefore, the activated high-loading active-material cores enable the corresponding cells to deliver increasing charge-storage capacities.(14, 24)
+After 100 cycles, the reversible capacities remain at 788 and 638 mA h g–1, corresponding to high dynamic capacity-retention rates of 67% and 71%. These features provide electrochemical evidence that the carbon-cotton cathodes simultaneously possess (i) high-loading capacity for raising the loading and content of the active material and (ii) excellent electrochemical quality with high utilization and retention.(37, 40, 45) In consideration of the high sulfur loading, the areal capacities are raised to 36 and 28 mA h cm–2,(38, 41-43) but so would the electrode thickness. The increasing thickness of the electrodes would influence the volumetric capacity and could remain as a new challenge for high-loading sulfur cathodes. However, not much literature points out this problem in pursuing high-loading cathodes.(8, 14, 37-40) A possible solution to ameliorate the volumetric capacity issue is to fill up the high-loading cathode with a high content of sulfur.(14, 47) With a sulfur content of 80 wt %, Figure 2e displays the improved volumetric capacities of 1201 and 927 mA h cm–3 at C/10 and C/5 rates. As a result of the high sulfur content, the gravimetric capacities attain 930 and 718 mA h g–1.(36-39, 47) The excellent dynamic battery performances could conclude that the carbon-cotton cathodes exhibit a good balance between the high sulfur loading and content as well as the areal, volumetric, and gravimetric capacities.
+The static Li–S battery performances with a long-term cell storage have only been investigated by very few studies,(5, 41-43, 48) and corresponding high-loading studies are even rarer. Figure 2f shows the self-discharge effect of the carbon-cotton cathodes resting at uncycled and fully discharged states for 60 days. At both the cell-storage conditions, the cells display almost constant open-circuit voltage (OCV) values, indicating the static chemical and electrochemical stability. In the first case, the cell resting at uncycled state remained 94% of its original charge-storage capacity, corresponding to a low static capacity-fade rate, the time-dependent self-discharge rate, of 0.10% per day. This indicates the excellent polysulfide-retention capability of the carbon-cotton cathode because the uncycled cells were examined with the existence of a high content of polysulfide catholytes in the cathode.(5, 48) In the second case, the cell resting at the fully discharged state hold 93% of its original charge-storage capacity with a low time-dependent self-discharge rate of 0.12% per day. This demonstrates that the redox chemistry was not impacted by the formation of insulating reduction products (Li2S2/Li2S).(41-43, 48) The stable OCV values, high static charge-storage capacities, and low capacity-fade rate evidence the excellent static cell stability associated with the carbon-cotton cathodes.
+Benefiting from the improved dynamic electrochemical properties, the high loading/content carbon-cotton cathode exhibits good rate capability from a low C/20 rate, showing the good polysulfide retention, to a high 2C rate, displaying the improved reaction capability (Figure 3a).(14, 26, 40) After completing the 2C rate measurement, the cells display a high reversible capacity of 1022 mA h g–1 at C/20 rate (the 71st cycle). The high electrochemical reversibility displays a low capacity fade of <0.025%, as compared to the initial C/20-rate measurement. This demonstrates the excellent rate capability of the carbon-cotton cathodes. On the other hand, after assessing the rate capability, the cells continuously cycle at C/10 rate, maintaining a superior cycle stability (from the 91st to the 150th cycles). The capacity retention after 150 cycles is 92% with a low capacity-fade rate of only 0.07% per cycle. In Figure 3b, the carbon-cotton cathodes demonstrate that their ultrahigh-loading capability is able to further increase the high sulfur loading from 30.7 to 61.4 mg cm–2 and still keeps a high sulfur content of 80 wt % with good cyclability. The high-loading/content cathodes provide Li–S cells with a peak discharge capacity of 912 mA h g–1 and a high capacity retention of 77% at C/10 rate after 50 cycles. The corresponding areal, volumetric, and gravimetric capacities are, respectively, 56 mA h cm-2, 1121 mA h cm-3, and 724 mA h g–1. As summarized in Figure 1a, the carbon-cotton cathodes presented here attain the highest sulfur loading/content, which is 3 times higher than the values reported in literature for Li–S cells with high loading. In addition, benefiting from the hierarchical macro-/microporous architecture, the high-loading carbon-cotton cathodes simultaneously exhibit (i) promising dynamic battery performances with high charge-storage capacities and good cyclability and (ii) long-term cell-storage capacity with high capacity retention during long-term resting as compared to the values reported in the literature so far (see Tables S1 and S2 in the Supporting Information).(30-43)
+figure
+Figure 3. Battery performances of the carbon-cotton cathodes: (a) rate capability from C/20 to 2C rates and ensuing cycle stability at C/10 rate and (b) high-loading capability testing.
+
+Dynamic and Static Electrochemical Analyses
+The dynamically and statically stable battery chemistries are analyzed in Figures 4 and 5. Two different cyclic voltammograms (CV) summarized in Figure 4a,b demonstrate the improved electrochemical stability and the smooth Li-ion diffusion.(19, 25) In Figure 4a, the reversible CV curves at a scanning rate of 0.05 mV s–1 display the two-step redox reaction during the lithiation/delithiaton processes of sulfur, involving two cathodic peaks (C1 and C2) and continuous anodic peaks (A1). The C1 and C2 peaks correspond to, respectively, the reduction of sulfur to polysulfides(3, 22, 27) and the reduction of polysulfides to solid reduction products, Li2S2/Li2S.(19, 25) The broad A1 peak represents the oxidation reaction from Li2S2/Li2S to Li2S8/S.(3, 23) The CV curves show no obvious peak and current changes, demonstrating the improved electrochemical stability.(19, 21) Figure 4b,c displays, respectively, the rate-dependent CV scanning and the mathematical calculation of the Li-ion diffusion coefficient (DLi+).(19, 25) The DLi+ values of C1, C2, and A1 peaks are, respectively, 8.19 × 10–9, 2.29 × 10–8, and 3.85 × 10–8 cm2 s–1. The experimental DLi+ values are close to the reference values reported in the literature (DLi+ = 2 × 10–8 – 9 × 10–9 cm2 s–1),(19, 25) demonstrating the smooth Li-ion diffusion. The cell resistance and reaction kinetics were investigated by electrochemical impedance spectroscopy (EIS, see Figure S7 in the Supporting Information).(13, 25, 49) Both uncycled and cycled cells display low resistance values, evidencing that the conductive carbon cotton and the electrochemically active catholyte improve the cathode conductivity.(13, 49) According to the CV and EIS analyses, the smooth ion and electron transport within the high-loading/content carbon-cotton cathodes should improve the redox chemistry so that the cells are able to be normally operated and attain good electrochemical performances.
+figure
+Figure 4. Dynamic and static electrochemical analyses: (a) CV curves, (b) rate-dependent CV curves, (c) DLi+ coefficient, (d,e) QH and QL analysis, and (f) self-discharge and Ks constant.
+
+figure
+Figure 5. Electrochemical analyses of the carbon-cotton cathodes in a polysulfide-trap cell: (a) schematic of a polysulfide-trap cell, (b) microstructural inspections of the cycled polysulfide trap after 100 cycles, and (c) microstructural inspections of the rested polysulfide trap after resting for 60 days.
+
+The enhanced redox chemistry is subsequently characterized by the discharge/charge curves at C/10 and C/5 rates (see Figure S8 in the Supporting Information). The overlapping discharge/charge curves show no severe capacity or voltage fades, which reconfirms the highly reversible redox reactions.(3, 22, 23) By examining the discharge/charge curves, the voltage hysteresis (?E), upper-plateau discharge capacity (QH), and lower-plateau discharge capacity (QL) provide more electrochemical characteristics in supporting the enhanced dynamically stable Li–S battery chemistry.(21, 23, 25, 28)
+In Figure S9 (Supporting Information), the ?E values represent the voltage separation between the discharge and charge curves. At C/10 and C/5 rates, the ?E values decrease, respectively, from 0.38 to 0.29 V and from 0.46 to 0.40 V after the initial activation(24) and subsequently remain at 0.27 and 0.38 V during the following cycling. Low-voltage hysteresis demonstrates fast redox reaction kinetics brought about by the electrochemically active catholyte and conductive carbon-cotton electrode.(23-25) The QH value indicates the polysulfide-diffusion status and reflects the possible polysulfide retention because the upper plateau region involves the formation, dissolution, and migration of polysulfides.(3, 21, 23, 27) Despite a high amount of catholyte loading, the utilization rates of QH approach 80% at C/10 rate and 60% at C/5 rate (Figure 4d). After 100 cycles, the QH retention rates attain 63% at C/10 rate and 73% at C/5 rate. Such high QH utilization and retention suggest the reduced polysulfide diffusion.(7, 23) The QL value illustrates the reduction capability of the cells due to the slow liquid(polysulfides)–solid(sulfides) transformation in the lower plateau region.(3, 5, 21) In consideration of the formation of solid redox products, the tendency of the QL as a function of cycle numbers also reflects the capability of the carbon-cotton cathodes to eliminate the redeposition of the insulating Li2S2/Li2S layer on their surface and to inhibit the formation of agglomerated active-material buildup within their porous spaces.(7, 23) The long lower discharge plateaus maintain well, such that the carbon-cotton cathodes exhibit a high retention rate in their QL of 60+% at various cycling rates after 100 cycles (Figure 4e). The high QL retention represents a thorough reduction of the stabilized active material and excellent electrochemical reversibility.(7, 23, 27) In general, ?E, QH, and QL analyses and their favorable features explain why the carbon-cotton cathodes could enhance high-loading capability and simultaneously maintain the improved dynamic battery performances.
+The statically stable Li–S battery chemistry was analyzed by a mathematical model at the uncycled and fully discharged states.(5, 41-43) In Figure 4f, the self-discharge constant (Ks) is examined by comparing the QH values before and after resting as a function of the resting time.(5, 43) The Ks values of the carbon-cotton cathodes resting at uncycled and fully discharged states were, respectively, 0.0089 and 0.0076 day–1. The Ks values are lower than the values of the cathodes with low sulfur loadings of 1–4 mg cm–2.(5, 43, 48) Due to the high amount of polysulfide catholyte in the carbon-cotton cathode, the low Ks demonstrates the good polysulfide-retention capability of the carbon-cotton cathodes so that the corresponding cells possess enhanced static stability during a long cell-storage period.(41-43)
+Besides a series of quantitative analysis, a polysulfide-trap cell that had a carbon-paper layer inserted between two layers of separators as a “polysulfide trap” was utilized for qualitatively evaluating the presence or absence of polysulfide diffusion in the carbon-cotton cathode. The polysulfide-trap cell is configured with a carbon-cotton cathode, a first layer of a separator, a carbon-paper layer (as the polysulfide trap), a second layer of a separator, and a lithium-foil anode (Figure 5a).(36) In Figure 5b,c, the polysulfide traps retrieved from the cells after 100 cycles and resting for 60 days exhibit a well-maintained porous carbon network. Although a high amount of dissolved polysulfide catholyte was directly loaded into the carbon-cotton cathode, the cycled polysulfide trap (Figures 5b) revealed strong elemental carbon signals and very limited sulfur signals. The corresponding elemental mapping results show that the polysulfide trap is almost sulfur-free. This demonstrates the suppressed polysulfide diffusion and confirms the superior dynamic polysulfide-retention capability of the carbon-cotton cathodes. On the other hand, in Figure 5c, the rested carbon-cotton cathodes stayed at a high-polysulfide concentration condition for a long cell-storage period. The polysulfide trap retrieved from the rested cells exhibited low elemental sulfur signals. This demonstrates that the carbon-cotton cathode also possesses an excellent static polysulfide-retention capability. In summary, these quantitative and qualitative electrochemical examinations summarized in Figures 4 and 5 demonstrate the attracting high-loading capacity and dynamic/static polysulfide retention brought about by the carbon-cotton cathode.
+Conclusion
+In conclusion, the carbon-cotton cathodes provide a facile and practical solution for developing high performance Li–S cells with a high-loading capacity, achieving a superior active-material loading and content of 61.4 mg cm–2 and 80 wt %. The carbon-cotton electrode has a cross-linked spiral carbon-fiber network that is armored with microporous reaction sites. Stereoscopic macroporous architecture allows the carbon-cotton cathode to encapsulate a high amount of catholyte. The high tortuosity of the carbon-cotton cathode benefits the catholyte infiltration and the ensuing active-material retention. The abundant micropores enlarge the accessible reaction area among electrons, catholyte, and active material, guaranteeing the smooth operation of high-loading/content cathodes. Therefore, the cells employing the carbon-cotton cathodes display outstanding dynamic redox chemistry and exhibit a dynamic capacity-retention rate of 70%. The corresponding cells exhibit high areal, volumetric, and gravimetric capacities. The statically stable battery chemistry demonstrates a low self-discharge effect with a high static capacity retention of 93% after resting for 60 days. The performance and electrochemical enhancements make the carbon-cotton cathodes an advanced electrode material for developing the high-loading/content Li–S batteries.
+Methods
+Carbon-Cotton Cathode Fabrication
+The carbon cotton was fabricated by simply carbonizing cotton at 900 °C for 6 h with a heating rate of 2 °C min–1 in a tube furnace under argon atmosphere. Pure cotton was retrieved from commercial cotton pads. After carbonization, cotton converted into a lightweight stereoscopic carbon matrix that well retained the original fluffy and porous morphology of cotton. The carbon cotton intrinsically possesses superior flexibility, durability, and mechanical strength (see Figure S1 in the Supporting Information). The carbon cotton was cut into a square with a uniform size of 5 × 5 mm. The average thicknesses and masses of the carbon cottons used to load 30.7 mg cm–2 sulfur loading in the cathodes were, respectively, 300 µm and 1.9 mg cm–2. The corresponding values for a higher sulfur loading of 61.4 mg cm–2 were, respectively, 500 µm and 3.7 mg cm–2.
+In order to adopt these natural benefits, the carbon cotton was directly used as the electrode-containment material without additional modifications. For example, the carbon-cotton cathodes with an ultrahigh sulfur loading were prepared by impregnating the carbon cotton with a high amount of electrochemically active Li2S6 catholytes (80 µL) inside an argon-filled glovebox. The resulting carbon-cotton cathodes contained high sulfur loading and content of up to 61.4 mg cm–2 and 80 wt %, respectively. Both values are higher than the values reported so far in the literature (Figure 1a,b). The superior mechanical strength of the conductive carbon network allows the resulting carbon-cotton cathodes to be free-standing. No extra binders, conductive carbon additives, and aluminum-foil current collectors were applied in the cathode preparation, which might simplify the fabrication processes. The Li2S6 catholyte was prepared by mixing commercial sulfur powder (Acros Organics) and Li2S powder (Acros Organics) in a regular 1:1 volume ratio of 1,3-dioxolane (DOL, Acros Organics)/1,2-dimethoxyethane (DME, Acros Organics) electrolyte with 1.85 M LiCF3SO3 (Acros Organics) and 0.1 M LiNO3 (Acros Organics) cosalts. The precursor solution was heated for 48 h at 50 °C to produce the dissolved polysulfide catholytes. The catholytes contained 6 M sulfur in the solution. The anolyte, a blank electrolyte, was prepared by dissolving 1.85 M LiCF3SO3 and 0.1 M LiNO3 cosalts in the same 1:1 volume ratio of DOL/DME electrolyte.
+Electrochemical Cell Assembly
+The carbon-cotton cathode was, subsequently, assembled into a CR2032-type coin cell in an argon-filled glovebox with a Celgard 2500 monolayer polypropylene (PP) membrane (Celgard), a lithium-foil anode (Aldrich), a nickel-foam spacer (Pred Materials, Inc.), and a blank electrolyte. The cell contained an electrolyte-to-sulfur ratio of 6.8. The electrolyte-to-sulfur ratio was based on the total amount of electrolyte and mass of sulfur used in the cells. The assembled cells were allowed to rest for 30 min at 25 °C before analysis and electrochemical measurements. In order to normalize the electrochemical characteristics and the corresponding analysis, the cells employing the high-loading/content cathodes were controlled in a stable OCV value of 2.35 ± 0.05 V. The yielding rate of the qualified cells was 90+%.
+Polysulfide-Trap Cell Fabrication
+In this work, a favorable catholyte infiltration and superior polysulfide retention within the carbon-cotton cathode are the important prerequisites for the high sulfur loading/content cathodes to normally function and subsequently exhibit dynamically and statically stable electrochemical characteristics. Thus, a polysulfide-trap cell was applied for the investigation of polysulfide retention or diffusion during cell cycling and resting. The polysulfide-trap cell was configured with a carbon-cotton cathode, the first layer of a separator, a carbon-paper layer (as the polysulfide trap, with 20 µL blank electrolyte), the second layer of a separator, a lithium-foil anode (Aldrich), a nickel-foam spacer (Pred Materials, Inc.), and a blank electrolyte (20 µL). The electrolyte-to-sulfur ratio in the polysulfide-trap cell was increased to 9.4. The assembled polysulfide-trap cells were allowed to rest for 30 min at 25 °C before analysis and electrochemical measurements.
+Materials Characterization
+Microstructural analysis was conducted with a field emission scanning electron microscope (FE-SEM, Quanta 650, FEI) equipped with an energy dispersive X-ray spectrometer (EDX) for detecting the elemental signals and collecting the elemental mapping signals. The cycled carbon-cotton cathodes and cycled polysulfide traps (at charge state, 100 cycles) were retrieved inside an argon-filled glovebox 30 min prior to the analysis. The cycled carbon-cotton cathodes were rinsed with a 1:1 volume ratio of DOL/DME solution for 5 min, wiped with Kimwipes, and transported into an argon-filled sealed vessel. The cycled polysulfide traps were rinsed with a DOL solution for 5 min because DME is a polar solvent with high solubility for polysulfides. The rested carbon-cotton cathodes and the polysulfide traps inserted in the polysulfide-trap cells after resting for 60 days were utilized for examining the static morphological and elemental changes. Due to the use of polysulfide catholyte in cathodes, the rested SEM samples were also rinsed with a DOL solution for 5 min.
+The nitrogen adsorption–desorption isotherms were measured at 77 K with an automated gas sorption analyzer (AutoSorb iQ2, Quantachrome Instruments). Specific surface area was calculated with the 7-points Brunauer–Emmett–Teller method with a correlation coefficient of above 0.999. The pore-size distributions and pore volumes were determined by the Barrett–Joyner–Halenda method for investigating the broad pore-size distributions, Horvath–Kawazoe method for analyzing the micropore filling behavior, and a density functional theory model for characterizing the meso-/micropore adsorptions. The analysis of microporosity was calculated by Dubinin–Astakov/Dubinin–Radushkevic theories and T-plot method under a porous carbon model. Each analysis model has a specific analytical range for the corresponding porosity characteristics so that Figure S3 and Table S3 display a comprehensive and in-depth porosity analysis.
+Dynamically Electrochemical Measurements and Analysis
+CV measurements were evaluated with a universal potentiostat (VoltaLab PGZ 402, Radiometer Analytical). The cells employing the carbon-cotton cathodes were charged from OCV to 3.0 V as the initial charge. Subsequently, the cells were scanned between 1.5 and 3.0 V at a scan rate of 0.05 mV s–1 and stopped at the charged state after 10 cycles. The rate-dependent CV curves were based on the fifth CV scan. The examined cells were cycled for four cycles at C/10 rate initially for completing the activation process. The precycling step ensured that the examined CV cells have similar and qualified electrochemical conditions and characteristics. The lithium-ion diffusion coefficient (DLi+) was examined by the Randles–Sevick equation:
+
+where Ipeak is the peak current, e is the number of electrons, area is the cathode area, concnLi+ is the concentration of Li ions in the electrolyte, and rate is the CV scanning rate. The data points were collected from the rate-dependent CV plots at various scanning rates (0.1, 0.05, and 0.02 mV s–1).(19, 24) The discharge/charge profiles and cyclability data were collected with a programmable battery cycler (Arbin Instruments). After a resting period of 30 min, the cells were first charged from OCV to 3.0 V and then cycled between 1.5 and 3.0 V for a full cycle at C/10 and C/5 rates. The voltage hysteresis (?E) was defined to be the voltage difference between the middle of the charge and discharge curves. The discharge capacity (mA h g–1) was calculated based on the mass of sulfur. The areal capacity (mA h cm–2), volumetric capacity (mA h cm–3), and gravimetric capacity (mA h g–1) were calculated per cathode. The QH and QL analyses were calculated from the discharge data points and based on the values of the theoretical QH and QL capacities, which were 419 and 1256 mA h g–1. The dynamic capacity-retention rates (dynamic RQ) were calculated by Q100th/Qpeak × 100% = dynamic RQ, where Q100th is the reversible capacity after 100 cycles and Qpeak is the peak discharge capacity. In consideration of the initial activation processes, the dynamic capacity-retention rate was calculated based on the peak capacity of the corresponding cells, which gives a fair comparison.(24)
+Static Electrochemical Measurements and Analysis
+The self-discharge effect was examined by using the uncycled and fully discharged Li–S cells after resting for 15, 30, and 60 days at room temperature. Two different cell-storage conditions were investigated for building a comprehensive understanding. The cells resting at the uncycled state aimed to display the effect of polysulfide diffusion toward the static cell stability because the existence of a high amount of polysulfide catholyte in the cells during long-term resting. On the other hand, the cells resting at the fully discharged state aimed to verify the relationship between the formation of discharged products, insulating Li2S2/Li2S, and the static redox chemistry. The static battery electrochemistry was studied by the changes of charge-storage capacities, OCV values, static capacity-retention rate, static capacity-fade rates, self-discharge constant, and polysulfide-trap cells. The static capacity-retention rate (static RQ) was calculated by Qself-discharge/Qpeak × 100% = static RQ. The static capacity-fade rates (self-discharge rate, Rself-discharge) were calculated by two methods: (i) (Qpeak – Qself-discharge)/Qpeak × 100% = Rself-discharge and (ii) (Qpeak – Qself-discharge)/Qpeak/TR × 100% = time-dependent Rself-discharge. The time-dependent Rself-discharge was introduced because some references reported a low self-discharge effect based on a short resting time. In these equations, Qpeak is the peak discharge capacity of the cell resting for 0 days, Qself-discharge is the charge-storage capacity after resting for 60 days, and TR is the resting time. The self-discharge constant that quantifies the self-discharge level of Li–S cells was determined by a mathematical model: ln(QH/QH0) = -Ks × TR, where QH is the upper-plateau charge-storage capacity, QH0 is the peak upper-plateau charge-storage capacity, Ks is the self-discharge constant, and TR is the resting time.(5, 43)
+Supporting Information
+The Supporting Information is available free of charge on the ACS Publications website at DOI: 10.1021/acsnano.6b06369.
+
+Digital images, SEM inspection, BET analysis, and porosity analysis of carbon cotton; SEM/EDX inspection of cycled and rested carbon-cotton cathodes; EIS data, discharge/charge curves, and voltage hysteresis of the corresponding Li–S cells; and comparative analysis of the battery parameters of the carbon-cotton cathodes with those of the reported Li–S batteries investigating high-loading cathodes and low self-discharge (PDF)
+PDF
+nn6b06369_si_001.pdf (1.07 MB)
+A Carbon-Cotton Cathode with Ultrahigh-Loading Capability for Statically and Dynamically Stable Lithium–Sulfur Batteries
+figshare  ShareDownload
+The authors declare no competing financial interest.
+
+Acknowledgment
+This work was supported by the Department of Energy, Office of Energy Efficiency and Renewable Energy (EERE) under award number DE-EE0007218.
+
+Reference QuickView
+References
+This article references 49 other publications.
+
+1. Nitta, N.; Wu, F.; Lee, J. T.; Yushin, G. Li–Ion Battery Materials: Present and Future Mater. Today 2015, 18, 252– 264 DOI: 10.1016/j.mattod.2014.10.040 [Crossref], [CAS]
+2. Urbonaite, S.; Poux, T.; Novák, P. Progress towards Commercially Viable Li–S Battery Cells Adv. Energy Mater. 2015, 5, 1500118 DOI: 10.1002/aenm.201500118 [Crossref]
+3. Yin, Y.-X.; Xin, S.; Guo, Y.-G.; Wan, L.-J. Lithium–Sulfur Batteries: Electrochemistry, Materials, and Prospects Angew. Chem., Int. Ed. 2013, 52, 13186– 13200 DOI: 10.1002/anie.201304762 [Crossref], [CAS]
+4. Manthiram, A.; Chung, S.-H.; Zu, C. Lithium–Sulfur Batteries: Progress and Prospects Adv. Mater. 2015, 27, 1980– 2006 DOI: 10.1002/adma.201405115 [Crossref], [PubMed], [CAS]
+5. Mikhaylik, Y. V.; Akridge, J. R. Polysulfide Shuttle Study in the Li/S Battery System J. Electrochem. Soc. 2004, 151, A1969– A1976 DOI: 10.1149/1.1806394 [Crossref], [CAS]
+6. Cheon, S.-E.; Choi, S.-S.; Han, J.-S.; Choi, Y.-S.; Jung, B.-H.; Lim, H. S. Capacity Fading Mechanisms on Cycling a High–Capacity Secondary Sulfur Cathode J. Electrochem. Soc. 2004, 151, A2067– A2073 DOI: 10.1149/1.1815153 [Crossref], [CAS]
+7. Barchasz, C.; Molton, F.; Duboc, C.; Leprêtre, J.-C.; Patoux, S.; Alloin, F. Lithium/Sulfur Cell Discharge Mechanism: An Original Approach for Intermediate Species Identification Anal. Chem. 2012, 84, 3973– 3980 DOI: 10.1021/ac2032244 [ACS Full Text ACS Full Text], [CAS]
+8. Hagen, M.; Hanselmann, D.; Ahlbrecht, K.; Maça, R.; Gerber, D.; Tübke, J. Lithium–Sulfur Cells: The Gap between the State-of-the-Art and the Requirements for High Energy Battery Cells Adv. Energy Mater. 2015, 5, 1401986 DOI: 10.1002/aenm.201401986 [Crossref]
+9. Hagen, M.; Fanz, P.; Tübke, J. Cell Energy Density and Electrolyte/Sulfur Ratio in Li–S Cells J. Power Sources 2014, 264, 30– 34 DOI: 10.1016/j.jpowsour.2014.04.018 [Crossref], [CAS]
+10. Xiao, J. Understanding the Lithium Sulfur Battery System at Relevant Scales Adv. Energy Mater. 2015, 5, 1501102 DOI: 10.1002/aenm.201501102 [Crossref]
+11. Tachikawa, N.; Yamauchi, K.; Takashima, E.; Park, J.-W.; Dokko, K.; Watanabe, M. Reversibility of Electrochemical Reactions of Sulfur Supported on Inverse Opal Carbon in Glyme–Li Salt Molten Complex Electrolytes Chem. Commun. 2011, 47, 8157– 8159 DOI: 10.1039/c1cc12415c [Crossref], [PubMed], [CAS]
+12. Shim, J.; Striebel, K. A.; Cairns, E. J. The Lithium/Sulfur Rechargeable Cell Effects of Electrode Composition and Solvent on Cell Performance J. Electrochem. Soc. 2002, 149, A1321– A1325 DOI: 10.1149/1.1503076 [Crossref], [CAS]
+13. Barchasz, C.; Leprêtre, J.-C.; Alloin, F.; Patoux, S. New Insights into the Limiting Parameters of the Li/S Rechargeable Cell J. Power Sources 2012, 199, 322– 330 DOI: 10.1016/j.jpowsour.2011.07.021 [Crossref], [CAS]
+14. Chung, S.-H.; Chang, C.-H.; Manthiram, A. Robust, Ultra–Tough Flexible Cathodes for High–Energy Li–S Batteries Small 2016, 12, 939– 950 DOI: 10.1002/smll.201503167 [Crossref], [PubMed], [CAS]
+15. Pang, Q.; Kundu, D.; Cuisinier, M.; Nazar, L. F. Surface–Enhanced Redox Chemistry of Polysulphides on a Metallic and Polar Host for Lithium–Sulphur Batteries Nat. Commun. 2014, 5, 4759 DOI: 10.1038/ncomms5759 [Crossref], [PubMed], [CAS]
+16. Liang, X.; Garsuch, A.; Nazar, L. F. Sulfur Cathodes based on Conductive MXene Nanosheets for High–Performance Lithium–Sulfur Batteries Angew. Chem., Int. Ed. 2015, 54, 3907– 3911 DOI: 10.1002/anie.201410174 [Crossref], [CAS]
+17. Fang, R.; Zhao, S.; Hou, P.; Cheng, M.; Wang, S.; Cheng, H.-M.; Liu, C.; Li, F. 3D Interconnected Electrode Materials with Ultrahigh Areal Sulfur Loading for Li–S Batteries Adv. Mater. 2016, 28, 3374– 3382 DOI: 10.1002/adma.201506014 [Crossref], [PubMed], [CAS]
+18. Peng, H.-J.; Zhang, G.; Chen, X.; Zhang, Z.-W.; Xu, W.-T.; Hung, J.-Q.; Zhang, Q. Enhanced Electrochemical Kinetics on Conductive Polar Mediators for Lithium–Sulfur Batteries Angew. Chem., Int. Ed. 2016, 55, 12990– 12995 DOI: 10.1002/anie.201605676 [Crossref], [CAS]
+19. Huang, J.-Q.; Zhang, Q.; Peng, H.-J.; Liu, X.-Y.; Qian, W.-Z.; Wei, F. Ionic Shield for Polysulfides towards Highly–Stable Lithium–Sulfur Batteries Energy Environ. Sci. 2014, 7, 347– 353 DOI: 10.1039/C3EE42223B [Crossref], [CAS]
+20. Chung, S.-H.; Manthiram, A. A Polyethylene Glycol–Supported Microporous Carbon Coating as a Polysulfide Trap for Utilizing Pure Sulfur Cathodes in Lithium–Sulfur Batteries Adv. Mater. 2014, 26, 7352– 7357 DOI: 10.1002/adma.201402893 [Crossref], [PubMed], [CAS]
+21. Huang, J.-Q.; Zhang, Q.; Wei, F. Multi–Functional Separator/Interlayer System for High–Stable Lithium–Sulfur Batteries: Progress and Prospect Energy Storage Mater. 2015, 1, 127– 145 DOI: 10.1016/j.ensm.2015.09.008 [Crossref]
+22. Huang, J.-Q.; Zhuang, T.-Z.; Zhang, Q.; Peng, H.-J.; Chen, C.-M.; Wei, F. Permselective Graphene Oxide Membrane for Highly Stable and Anti–Self–Discharge Lithium–Sulfur Batteries ACS Nano 2015, 9, 3002– 3011 DOI: 10.1021/nn507178a [ACS Full Text ACS Full Text], [CAS]
+23. Chung, S.-H.; Han, P.; Singhal, R.; Kalra, V.; Manthiram, A. Lithium–Sulfur Batteries: Electrochemically Stable Rechargeable Lithium–Sulfur Batteries with a Microporous Carbon Nanofiber Filter for Polysulfide Adv. Energy Mater. 2015, 5, 1500738 DOI: 10.1002/aenm.201500738 [Crossref]
+24. Chung, S.-H.; Han, P.; Manthiram, A. A Polysulfide–Trapping Interface for Electrochemically Stable Sulfur Cathode Development ACS Appl. Mater. Interfaces 2016, 8, 4709– 4717 DOI: 10.1021/acsami.5b12012 [ACS Full Text ACS Full Text], [CAS]
+25. Balach, J.; Jaumann, T.; Klose, M.; Oswald, S.; Eckert, J.; Giebeler, L. Functional Mesoporous Carbon–Coated Separator for Long–Life, High-Energy Lithium–Sulfur Batteries Adv. Funct. Mater. 2015, 25, 5285– 5291 DOI: 10.1002/adfm.201502251 [Crossref], [CAS]
+26. Chung, S.-H.; Manthiram, A. A Hierarchical Carbonized Paper with Controllable Thickness as a Modulable Interlayer System for High Performance Li–S Batteries Chem. Commun. 2014, 50, 4184– 4187 DOI: 10.1039/c4cc00850b [Crossref], [PubMed], [CAS]
+27. Chung, S.-H.; Singhal, R.; Kalra, V.; Manthiram, A. Porous Carbon Mat as an Electrochemical Testing Platform for Investigating the Polysulfide Retention of Various Cathode Configurations in Li–S Cells J. Phys. Chem. Lett. 2015, 6, 2163– 2169 DOI: 10.1021/acs.jpclett.5b00927 [ACS Full Text ACS Full Text], [CAS]
+28. Balach, J.; Jaumann, T.; Klose, M.; Oswald, S.; Eckert, J.; Giebeler, L. Mesoporous Carbon Interlayers with Tailored Pore Volume as Polysulfide Reservoir for High–Energy Lithium–Sulfur Batteries J. Phys. Chem. C 2015, 119, 4580– 4587 DOI: 10.1021/jp512062t [ACS Full Text ACS Full Text], [CAS]
+29. Xiao, Z.; Yang, Z.; Wang, L.; Nie, H.; Zhong, M.; Lai, Q.; Xu, X.; Zhang, L.; Huang, S. A Lightweight TiO2/Graphene Interlayer, Applied as a Highly Effective Polysulfide Absorbent for Fast, Long–Life Lithium–Sulfur Batteries Adv. Mater. 2015, 27, 2891– 2898 DOI: 10.1002/adma.201405637 [Crossref], [PubMed], [CAS]
+30. Elazari, R.; Salitra, G.; Garsuch, A.; Panchenko, A.; Aurbach, D. Sulfur–Impregnated Activated Carbon Fiber Cloth as a Binder–Free Cathode for Rechargeable Li–S Batteries Adv. Mater. 2011, 23, 5641– 5644 DOI: 10.1002/adma.201103274 [Crossref], [PubMed], [CAS]
+31. Barchasz, C.; Mesguich, F.; Dijon, J.; Leprêtre, J.-C.; Patoux, S.; Alloin, F. Novel Positive Electrode Architecture for Rechargeable Lithium/Sulfur Batteries J. Power Sources 2012, 211, 19– 23 DOI: 10.1016/j.jpowsour.2012.03.062 [Crossref], [CAS]
+32. Chung, S.-H.; Manthiram, A. Carbonized Eggshell Membrane as a Natural Polysulfide Reservoir for Highly Reversible Li–S Batteries Adv. Mater. 2014, 26, 1360– 1365 DOI: 10.1002/adma.201304365 [Crossref], [PubMed], [CAS]
+33. Cheng, X.-B.; Peng, H.-J.; Huang, J.-Q.; Zhu, L.; Yang, S.-H.; Liu, Y.; Zhang, H.-W.; Zhu, W.; Wei, F.; Zhang, Q. Three–Dimensional Aluminum Foam/Carbon Nanotube Scaffolds as Long– and Short–Range Electron Pathways with Improved Sulfur Loading for High Energy Density Lithium/Sulfur Batteries J. Power Sources 2014, 261, 264– 270 DOI: 10.1016/j.jpowsour.2014.03.088 [Crossref], [CAS]
+34. Zhang, S.; Ueno, K.; Dokko, K.; Watanabe, M. Recent Advances in Electrolytes for Lithium–Sulfur Batteries Adv. Energy Mater. 2015, 5, 1500117 DOI: 10.1002/aenm.201500117 [Crossref]
+35. Fang, R.; Zhao, S.; Pei, S.; Qian, X.; Hou, P.-X.; Cheng, H.-M.; Liu, C.; Li, F. Toward More Reliable Lithium–Sulfur Batteries: An All-Graphene Cathode Structure ACS Nano 2016, 10, 8676– 8682 DOI: 10.1021/acsnano.6b04019 [ACS Full Text ACS Full Text], [CAS]
+36. Chung, S.-H.; Chang, C.-H.; Manthiram, A. Hierarchical Sulfur Electrodes as a Testing Platform for Understanding the High-Loading Capability of Li-S Batteries J. Power Sources 2016, 334, 179– 190 DOI: 10.1016/j.jpowsour.2016.10.023 [Crossref], [CAS]
+37. Miao, L.; Wang, W.; Yuan, K.; Yang, Y.; Wang, A. A Lithium–Sulfur Cathode with High Sulfur Loading and High Capacity per Area: a Binder–Free Carbon Fiber Cloth–Sulfur Material Chem. Commun. 2014, 50, 13231– 13234 DOI: 10.1039/C4CC03410D [Crossref], [PubMed], [CAS]
+38. Lv, D.; Zheng, J.; Li, Q.; Xie, X.; Ferrara, S.; Nie, Z.; Mehdi, L. B.; Browning, N. D.; Zhang, J.-G.; Graff, G. L.; Liu, J.; Xiao, J. High Energy Density Lithium–Sulfur Batteries: Challenges of Thick Sulfur Cathodes Adv. Energy Mater. 2015, 5, 1402290 DOI: 10.1002/aenm.201402290 [Crossref]
+39. Hagen, M.; Hanselmann, D.; Ahlbrecht, K.; Maça, R.; Gerber, D.; Tübke, J. Lithium–Sulfur Cells: The Gap between the State–of–the–Art and the Requirements for High Energy Battery Cells Adv. Energy Mater. 2015, 5, 1401986 DOI: 10.1002/aenm.201401986 [Crossref]
+40. Peng, H.-J.; Xu, W.-T.; Zhu, L.; Wang, D.-W.; Huang, J.-Q.; Cheng, X.-B.; Yuan, Z.; Wei, F.; Zhang, Q. 3D Carbonaceous Current Collectors: The Origin of Enhanced Cycling Stability for High–Sulfur–Loading Lithium–Sulfur Batteries Adv. Funct. Mater. 2016, 26, 6351– 6358 DOI: 10.1002/adfm.201602071 [Crossref], [CAS]
+41. Ryu, H. S.; Ahn, H. J.; Kim, K. W.; Ahn, J. H.; Lee, J. Y.; Cairns, E. J. Self–Discharge of Lithium–Sulfur Cells using Stainless–Steel Current–Collectors J. Power Sources 2005, 140, 365– 369 DOI: 10.1016/j.jpowsour.2004.08.039 [Crossref], [CAS]
+42. Ryu, H. S.; Ahn, H. J.; Kim, K. W.; Ahn, J. H.; Cho, K. K.; Nam, T. H. Self–Discharge Characteristics of Lithium/Sulfur Batteries using TEGDME Liquid Electrolyte Electrochim. Acta 2006, 52, 1563– 1566 DOI: 10.1016/j.electacta.2006.01.086 [Crossref], [CAS]
+43. Chung, S.-H.; Manthiram, A. Bifunctional Separator with a Light–Weight Carbon–Coating for Dynamically and Statically Stable Lithium–Sulfur Batteries Adv. Funct. Mater. 2014, 24, 5299– 5306 DOI: 10.1002/adfm.201400845 [Crossref], [CAS]
+44. Pope, M. A.; Aksay, I. A. Structural Design of Cathodes for Li–S Batteries Adv. Energy Mater. 2015, 5, 1500124 DOI: 10.1002/aenm.201500124 [Crossref]
+45. Hu, G.; Xu, X.; Sun, Z.; Wang, S.; Cheng, H.-M.; Li, F.; Ren, W. 3D Graphene–Foam–Reduced–Graphene–Oxide Hybrid Nested Hierarchical Networks for High–Performance Li–S Batteries Adv. Mater. 2016, 28, 1603– 1609 DOI: 10.1002/adma.201504765 [Crossref], [PubMed], [CAS]
+46. Fu, Y.-Z.; Su, Y.-S.; Manthiram, A. Highly Reversible Lithium/Dissolved Polysulfide Batteries with Carbon Nanotube Electrodes Angew. Chem., Int. Ed. 2013, 52, 6930– 6935 DOI: 10.1002/anie.201301250 [Crossref], [PubMed], [CAS]
+47. Cheng, X.-B.; Huang, J.-Q.; Zhang, Q.; Peng, H.-J.; Zhao, M.-Q.; Wei, F. Aligned Carbon Nanotube/Sulfur Composite Cathodes with High Sulfur Content for Lithium–sulfur Batteries Nano Energy 2014, 4, 65– 72 DOI: 10.1016/j.nanoen.2013.12.013 [Crossref], [CAS]
+48. Knap, V.; Stroe, D.-I.; Swierczynski, M.; Teodorescu, R.; Schaltz, E. Investigation of the Self–Discharge Behavior of Lithium–Sulfur Batteries J. Electrochem. Soc. 2016, 163, A911– A916 DOI: 10.1149/2.0641606jes [Crossref], [CAS]
+49. Kolosnitsyn, V. S.; Kuzmina, E. V.; Karaseva, E. V.; Mochalow, S. E. A Study of the Electrochemical Processes in Lithium–Sulphur Cells by Impedance Spectroscopy J. Power Sources 2011, 196, 1478– 1482 DOI: 10.1016/j.jpowsour.2010.08.105 [Crossref], [CAS]
+Citing Articles
+Related Content
+Citation data is made available by participants in Crossref's Cited-by Linking service. For a more comprehensive list of citations to this article, users are encouraged to perform a search inSciFinder.
+
+Cover Image
+Enhanced Adsorptions to Polysulfides on Graphene-Supported BN Nanosheets with Excellent Li–S Battery Performance in a Wide Temperature Range
+Ding Rong DengFei XueCheng-Dong BaiJie LeiRuming YuanMing Sen ZhengQuan Feng Dong
+ACS Nano 2018 12 (11), 11120-11129
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Simultaneously Porous Structure and Chemical Anchor: A Multifunctional Composite by One-Step Mechanochemical Strategy toward High-Performance and Safe Lithium–Sulfur Battery
+Zhao-Yan ZhuNa YangXiao-Shuan ChenSi-Chong ChenXiu-Li WangGang WuYu-Zhong Wang
+ACS Applied Materials & Interfaces 2018 Article ASAP
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Lithium–Sulfur Batteries: State of the Art and Future Directions
+Teyeb Ould ElyDana KamzabekDhritiman ChakrabortyMichael F. Doherty
+ACS Applied Energy Materials 2018 1 (5), 1783-1814
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Nickel-Based-Hydroxide-Wrapped Activated Carbon Cloth/Sulfur Composite with Tree-Bark-Like Structure for High-Performance Freestanding Sulfur Cathode
+Zhen MengShunlong ZhangJianli WangXufeng YanHangjun YingXin XuWenkui ZhangXianhua HouWei-Qiang Han
+ACS Applied Energy Materials 2018 1 (4), 1594-1602
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Flexible and Hierarchically Structured Sulfur Composite Cathode Based on the Carbonized Textile for High-Performance Li–S Batteries
+Peibo Gao, Shixing Xu, Zhangwei Chen, Xi Huang, Zhihao Bao, Changshi Lao, Guangming Wu, and Yongfeng Mei
+ACS Applied Materials & Interfaces 2018 10 (4), 3938-3947
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Toward Theoretically Cycling-Stable Lithium–Sulfur Battery Using a Foldable and Compositionally Heterogeneous Cathode
+Lei Zhong, Kai Yang, Ruiteng Guan, Liangbin Wang, Shuanjin Wang, Dongmei Han, Min Xiao, and Yuezhong Meng
+ACS Applied Materials & Interfaces 2017 9 (50), 43640-43647
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Controllably Designed “Vice-Electrode” Interlayers Harvesting High Performance Lithium Sulfur Batteries
+Youchen Hao, Dongbin Xiong, Wen Liu, Linlin Fan, Dejun Li, and Xifei Li
+ACS Applied Materials & Interfaces 2017 9 (46), 40273-40280
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+An Outlook on Lithium Ion Battery Technology
+Arumugam Manthiram
+ACS Central Science 2017 3 (10), 1063-1069
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Rational Design of High-Loading Sulfur Cathodes with a Poached-Egg-Shaped Architecture for Long-Cycle Lithium–Sulfur Batteries
+Liu Luo and Arumugam Manthiram
+ACS Energy Letters 2017 2 (10), 2205-2211
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Tellurium-Impregnated Porous Cobalt-Doped Carbon Polyhedra as Superior Cathodes for Lithium–Tellurium Batteries
+Jiarui He, Weiqiang Lv, Yuanfu Chen, Kechun Wen, Chen Xu, Wanli Zhang, Yanrong Li, Wu Qin, and Weidong He
+ACS Nano 2017 11 (8), 8144-8152
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Toward Safe Lithium Metal Anode in Rechargeable Batteries: A Review
+Xin-Bing Cheng, Rui Zhang, Chen-Zi Zhao, and Qiang Zhang
+Chemical Reviews 2017 117 (15), 10403-10473
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Confining Sulfur in N-Doped Porous Carbon Microspheres Derived from Microalgaes for Advanced Lithium–Sulfur Batteries
+Yang Xia, Ruyi Fang, Zhen Xiao, Hui Huang, Yongping Gan, Rongjun Yan, Xianghong Lu, Chu Liang, Jun Zhang, Xinyong Tao, and Wenkui Zhang
+ACS Applied Materials & Interfaces 2017 9 (28), 23782-23791
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Rational Design of Lithium–Sulfur Battery Cathodes Based on Experimentally Determined Maximum Active Material Thickness
+Michael J. Klein, Gabriel M. Veith, and Arumugam Manthiram
+Journal of the American Chemical Society 2017 139 (27), 9229-9237
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Co4N Nanosheet Assembled Mesoporous Sphere as a Matrix for Ultrahigh Sulfur Content Lithium–Sulfur Batteries
+Ding-Rong Deng, Fei Xue, Yue-Ju Jia, Jian-Chuan Ye, Cheng-Dong Bai, Ming-Sen Zheng, and Quan-Feng Dong
+ACS Nano 2017 11 (6), 6031-6039
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Long-Life Lithium–Sulfur Battery Derived from Nori-Based Nitrogen and Oxygen Dual-Doped 3D Hierarchical Biochar
+Xian Wu, Lishuang Fan, Maoxu Wang, Junhan Cheng, Hexian Wu, Bin Guan, Naiqing Zhang, and Kening Sun
+ACS Applied Materials & Interfaces 2017 9 (22), 18889-18896
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Sulfur Vapor-Infiltrated 3D Carbon Nanotube Foam for Binder-Free High Areal Capacity Lithium–Sulfur Battery Composite Cathodes
+Mengya Li, Rachel Carter, Anna Douglas, Landon Oakes, and Cary L. Pint
+ACS Nano 2017 11 (5), 4877-4884
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Cover Image
+Enabling High-Areal-Capacity Lithium–Sulfur Batteries: Designing Anisotropic and Low-Tortuosity Porous Architectures
+Yiju Li, Kun “Kelvin” Fu, Chaoji Chen, Wei Luo, Tingting Gao, Shaomao Xu, Jiaqi Dai, Glenn Pastel, Yanbin Wang, Boyang Liu, Jianwei Song, Yanan Chen, Chunpeng Yang, and Liangbing Hu
+ACS Nano 2017 11 (5), 4801-4807
+Abstract | Full Text HTML | PDF | PDF w/ Links
+Advanced nanostructured carbon-based materials for rechargeable lithium-sulfur batteries
+Linlin Zhang, Yijing Wang, Zhiqiang Niu, Jun Chen
+Carbon 2019 141, 400-416
+A free-standing nitrogen-doped porous carbon foam electrode derived from melaleuca bark for lithium-sulfur batteries
+Qiancheng Zhu, Huihui Deng, Qingmei Su, Gaohui Du, Yuan Yu, Shufang Ma, Bingshe Xu
+Electrochimica Acta 2019 293, 19-24
+Structure and electrochemical performance of Samarium substituted LiNi1/3Mn1/3Co1/3O2 cathode materials for rechargeable lithium-ion batteries
+K. Kalaiselvi, G. Paruthimal Kalaignan
+Journal of Materials Science: Materials in Electronics 2018 29 (24), 20703-20709
+Recent Progress in Liquid Electrolyte-Based Li–S Batteries: Shuttle Problem and Solutions
+Sui Gu, Changzhi Sun, Dong Xu, Yang Lu, Jun Jin, Zhaoyin Wen
+Electrochemical Energy Reviews 2018 1 (4), 599-624
+A carbon foam-supported high sulfur loading composite as a self-supported cathode for flexible lithium–sulfur batteries
+Miao Zhang, Kamran Amin, Meng Cheng, Hongxin Yuan, Lijuan Mao, Wei Yan, Zhixiang Wei
+Nanoscale 2018 10 (46), 21790-21797
+Enhanced Cycling Performance for Lithium-Sulfur Batteries by a Laminated 2D g-C 3 N 4 /Graphene Cathode Interlayer
+Long Qu, Pei Liu, Yikun Yi, Tao Wang, Pu Yang, Xiaolu Tian, Mingtao Li, Bolun Yang, Sheng Dai
+ChemSusChem 2018 9,
+A lightweight and binder-free electrode enabled by lignin fibers@carbon-nanotubes and graphene for ultrastable lithium–sulfur batteries
+Tao Liu, Shimei Sun, Wei Song, Xiaolin Sun, Quanhai Niu, Hui Liu, Takeo Ohsaka, Jianfei Wu
+Journal of Materials Chemistry A 2018 6 (46), 23486-23494
+Nonlithium Metal-Sulfur Batteries: Steps Toward a Leap
+Xiaodong Hong, Jun Mei, Lei Wen, Yueyu Tong, Anthony J. Vasileff, Liqun Wang, Ji Liang, Ziqi Sun, Shi Xue Dou
+Advanced Materials 2018 414, 1802822
+Multi-functional nanowall arrays with unrestricted Li + transport channels and an integrated conductive network for high-areal-capacity Li–S batteries
+Xiaofei Yang, Ying Yu, Xiaoting Lin, Jianneng Liang, Keegan Adair, Yang Zhao, Changhong Wang, Xia Li, Qian Sun, Hongzhang Zhang, Xianfeng Li, Ruying Li, Huamin Zhang, Xueliang Sun
+Journal of Materials Chemistry A 2018 6 (45), 22958-22965
+A 3D Nitrogen-Doped Graphene/TiN Nanowires Composite as a Strong Polysulfide Anchor for Lithium-Sulfur Batteries with Enhanced Rate Performance and High Areal Capacity
+Zhaohuai Li, Qiu He, Xu Xu, Yan Zhao, Xiaowei Liu, Cheng Zhou, Dong Ai, Lixue Xia, Liqiang Mai
+Advanced Materials 2018 30 (45), 1804089
+Designing a high-loading sulfur cathode with a mixed ionic-electronic conducting polymer for electrochemically stable lithium-sulfur batteries
+Pauline Han, Sheng-Heng Chung, Arumugam Manthiram
+Energy Storage Materials 2018 ,
+Large-Area Preparation of Crack-Free Crystalline Microporous Conductive Membrane to Upgrade High Energy Lithium-Sulfur Batteries
+Ying Zang, Fei Pei, Jiahong Huang, Zhihua Fu, Gang Xu, Xiaoliang Fang
+Advanced Energy Materials 2018 8 (31), 1802052
+A Facile, Low-Cost Hot-Pressing Process for Fabricating Lithium-Sulfur Cells with Stable Dynamic and Static Electrochemistry
+Sheng-Heng Chung, Ke-Yu Lai, Arumugam Manthiram
+Advanced Materials 2018 30 (46), 1805571
+The ternary conductive polymer coated S/BDPC composite cathode for enhancing the electrochemical prospects in Li-S batteries
+Yiqi Wei, Yinglin Yan, Yiming Zou, Mangmang Shi, Qijiu Deng, Nana Zhao, Shiyu Chen, Jiaming Lin, Rong Yang, Yunhua Xu
+Surface and Coatings Technology 2018 ,
+Tunable pore structure for confining polysulfides in high performance Li-S battery with coal precursor
+Danmiao Kang, Kun Tang, John P. Lemmon
+Applied Surface Science 2018 458, 714-721
+A compact 3D interconnected sulfur cathode for high-energy, high-power and long-life lithium-sulfur batteries
+Xiaoliang Yu, Jiaojiao Deng, Ruitao Lv, Zheng-Hong Huang, Baohua Li, Feiyu Kang
+Energy Storage Materials 2018 ,
+An in situ element permeation constructed high endurance Li–LLZO interface at high current densities
+Yang Lu, Xiao Huang, Yadong Ruan, Qingsong Wang, Rui Kun, Jianhua Yang, Zhaoyin Wen
+Journal of Materials Chemistry A 2018 6 (39), 18853-18858
+3D Ferroconcrete-Like Aminated Carbon Nanotubes Network Anchoring Sulfur for Advanced Lithium-Sulfur Battery
+Min Yan, Hao Chen, Yong Yu, Heng Zhao, Chao-Fan Li, Zhi-Yi Hu, Pan Wu, Lihua Chen, Hongen Wang, Dongliang Peng, Huanxin Gao, Tawfique Hasan, Yu Li, Bao-Lian Su
+Advanced Energy Materials 2018 8 (25), 1801066
+Structural Design of Lithium–Sulfur Batteries: From Fundamental Research to Practical Application
+Xiaofei Yang, Xia Li, Keegan Adair, Huamin Zhang, Xueliang Sun
+Electrochemical Energy Reviews 2018 1 (3), 239-293
+Vertically aligned laminate porous electrode: Amaze the performance with a maze structure
+Ying Yu, Hongzhang Zhang, Xiaofei Yang, Jian Gou, Xili Tong, Xianfeng Li, Huamin Zhang
+Energy Storage Materials 2018 ,
+Rational Design of a Dual-Function Hybrid Cathode Substrate for Lithium-Sulfur Batteries
+Liu Luo, Sheng-Heng Chung, Arumugam Manthiram
+Advanced Energy Materials 2018 8 (24), 1801014
+Ultra-small self-discharge and stable lithium-sulfur batteries achieved by synergetic effects of multicomponent sandwich-type composite interlayer
+Lehong Wang, Yan-Bing He, Lu Shen, Danni Lei, Jiaming Ma, Heng Ye, Kai Shi, Baohua Li, Feiyu Kang
+Nano Energy 2018 50, 367-375
+Progress on the Critical Parameters for Lithium-Sulfur Batteries to be Practically Viable
+Sheng-Heng Chung, Chi-Hao Chang, Arumugam Manthiram
+Advanced Functional Materials 2018 28 (28), 1801188
+Electrochemical process of sulfur in carbon materials from electrode thickness to interlayer
+Xiaonan Tang, Zhenhua Sun, Huicong Yang, Haitao Fang, Fei Wei, Hui-Ming Cheng, Shuping Zhuo, Feng Li
+Journal of Energy Chemistry 2018 ,
+MOF-derived Cobalt Sulfide Grown on 3D Graphene Foam as an Efficient Sulfur Host for Long-Life Lithium-Sulfur Batteries
+Jiarui He, Yuanfu Chen, Arumugam Manthiram
+iScience 2018 4, 36-43
+A Nacre-Like Carbon Nanotube Sheet for High Performance Li-Polysulfide Batteries with High Sulfur Loading
+Zheng-Ze Pan, Wei Lv, Yan-Bing He, Yan Zhao, Guangmin Zhou, Liubing Dong, Shuzhang Niu, Chen Zhang, Ruiyang Lyu, Cong Wang, Huifa Shi, Wenjie Zhang, Feiyu Kang, Hirotomo Nishihara, Quan-Hong Yang
+Advanced Science 2018 5 (6), 1800384
+Xanthoceras sorbifolia husks-derived porous carbon for sodium-ion and lithium-sulfur batteries
+Xiaozhong Zhou, Xiaofang Lu, Zhengfeng Zhang, Hejie Lu, Ziqiang Lei
+Diamond and Related Materials 2018 85, 104-111
+A 3D conductive carbon interlayer with ultrahigh adsorption capability for lithium-sulfur batteries
+Qian Zhao, Qizhen Zhu, Yabin An, Renjie Chen, Ning Sun, Feng Wu, Bin Xu
+Applied Surface Science 2018 440, 770-777
+Revisiting the Role of Polysulfides in Lithium-Sulfur Batteries
+Gaoran Li, Shun Wang, Yining Zhang, Matthew Li, Zhongwei Chen, Jun Lu
+Advanced Materials 2018 30 (22), 1705590
+A sustainable route from biomass cotton to construct lightweight and high-performance microwave absorber
+Huanqin Zhao, Yan Cheng, Jianna Ma, Yanan Zhang, Guangbin Ji, Youwei Du
+Chemical Engineering Journal 2018 339, 432-441
+High loading carbon nanotubes deposited onto porous nickel yarns by solution imbibition as flexible wire-shaped supercapacitor electrodes
+Chaoqun Kang, Dashun Cao, Yuejiao Liu, Zhiwei Liu, Ruiqing Liu, Xiaomiao Feng, Dan Wang, Yanwen Ma
+Journal of Energy Chemistry 2018 27 (3), 836-842
+Carbon nanomaterials for advanced lithium sulfur batteries
+Zheng-Long Xu, Jang-Kyo Kim, Kisuk Kang
+Nano Today 2018 19, 84-107
+Designing Lithium-Sulfur Cells with Practically Necessary Parameters
+Sheng-Heng Chung, Arumugam Manthiram
+Joule 2018 2 (4), 710-724
+Designing Safe Electrolyte Systems for a High-Stability Lithium-Sulfur Battery
+Wei Chen, Tianyu Lei, Chunyang Wu, Min Deng, Chuanhui Gong, Kai Hu, Yinchang Ma, Liping Dai, Weiqiang Lv, Weidong He, Xuejun Liu, Jie Xiong, Chenglin Yan
+Advanced Energy Materials 2018 8 (10), 1702348
+Root-like porous carbon nanofibers with high sulfur loading enabling superior areal capacity of lithium sulfur batteries
+Xiaohui Zhao, Miso Kim, Ying Liu, Hyo-Jun Ahn, Ki-Won Kim, Kwon-Koo Cho, Jou-Hyeon Ahn
+Carbon 2018 128, 138-146
+Review of Carbon Materials for Lithium-Sulfur Batteries
+Shanshan Li, Bo Jin, Xiaojie Zhai, Huan Li, Qing Jiang
+ChemistrySelect 2018 3 (8), 2245-2260
+Rational Design of Statically and Dynamically Stable Lithium-Sulfur Batteries with High Sulfur Loading and Low Electrolyte/Sulfur Ratio
+Sheng-Heng Chung, Arumugam Manthiram
+Advanced Materials 2018 30 (6), 1705951
+A Polysulfide-Infiltrated Carbon Cloth Cathode for High-Performance Flexible Lithium–Sulfur Batteries
+Ji-Yoon Song, Hyeon-Haeng Lee, Won Hong, Yun Huh, Yun Lee, Hae Kim, Young-Si Jun
+Nanomaterials 2018 8 (2), 90
+Design of structural and functional nanomaterials for lithium-sulfur batteries
+Jungjin Park, Seung-Ho Yu, Yung-Eun Sung
+Nano Today 2018 18, 35-64
+Popcorn Inspired Porous Macrocellular Carbon: Rapid Puffing Fabrication from Rice and Its Applications in Lithium-Sulfur Batteries
+Yu Zhong, Xinhui Xia, Shengjue Deng, Jiye Zhan, Ruyi Fang, Yang Xia, Xiuli Wang, Qiang Zhang, Jiangping Tu
+Advanced Energy Materials 2018 8 (1), 1701110
+A three-dimensional self-assembled SnS 2 -nano-dots@graphene hybrid aerogel as an efficient polysulfide reservoir for high-performance lithium–sulfur batteries
+Liu Luo, Sheng-Heng Chung, Arumugam Manthiram
+Journal of Materials Chemistry A 2018 6 (17), 7659-7667
+Nanostructured Host Materials for Trapping Sulfur in Rechargeable Li-S Batteries: Structure Design and Interfacial Chemistry
+Jun Zhang, Hui Huang, Jiwoong Bae, Sheng-Heng Chung, Wenkui Zhang, Arumugam Manthiram, Guihua Yu
+Small Methods 2018 2 (1), 1700279
+Recent research trends in Li–S batteries
+Rudra Kumar, Jie Liu, Jang-Yeon Hwang, Yang-Kook Sun
+Journal of Materials Chemistry A 2018 6 (25), 11582-11605
+Polysulfide immobilization and conversion on a conductive polar MoC@MoOx material for lithium-sulfur batteries
+Ruopian Fang, Shiyong Zhao, Zhenhua Sun, Da-Wei Wang, Rose Amal, Shaogang Wang, Hui-Ming Cheng, Feng Li
+Energy Storage Materials 2018 10, 56-61
+Nitrogen-doped carbon nanotube sponge with embedded Fe/Fe 3 C nanoparticles as binder-free cathodes for high capacity lithium–sulfur batteries
+Yu-Si Liu, Chao Ma, Yu-Lin Bai, Xue-Yan Wu, Qian-Chen Zhu, Xin Liu, Xing-Hua Liang, Xiao Wei, Kai-Xue Wang, Jie-Sheng Chen
+Journal of Materials Chemistry A 2018 6 (36), 17473-17480
+Review—Li Metal Anode in Working Lithium-Sulfur Batteries
+Xin-Bing Cheng, Jia-Qi Huang, Qiang Zhang
+Journal of The Electrochemical Society 2018 165 (1), A6058-A6072
+Review on High-Loading and High-Energy Lithium-Sulfur Batteries
+Hong-Jie Peng, Jia-Qi Huang, Xin-Bing Cheng, Qiang Zhang
+Advanced Energy Materials 2017 7 (24), 1700260
+Gravimetric and volumetric energy densities of lithium-sulfur batteries
+Weijiang Xue, Lixiao Miao, Long Qie, Chao Wang, Sa Li, Jiulin Wang, Ju Li
+Current Opinion in Electrochemistry 2017 6 (1), 92-99
+A rationally designed polysulfide-trapping interface on the polymeric separator for high-energy Li–S batteries
+Chi-Hao Chang, Sheng-Heng Chung, Sanjay Nanda, Arumugam Manthiram
+Materials Today Energy 2017 6, 72-78
+Sulfur-Immobilized Nitrogen and Oxygen Co-Doped Hierarchically Porous Biomass Carbon for Lithium-Sulfur Batteries: Influence of Sulfur Content and Distribution on Its Performance
+Reshma Chulliyote, Haritha Hareendrakrishnakumar, Murugan Raja, Joseph Mary Gladis, Arul Manuel Stephan
+ChemistrySelect 2017 2 (32), 10484-10495
+A Compact Nanoconfined Sulfur Cathode for High-Performance Lithium-Sulfur Batteries
+Zhen Li, Bu Yuan Guan, Jintao Zhang, Xiong Wen (David) Lou
+Joule 2017 1 (3), 576-587
+Dual confinement of sulphur with rGO-wrapped microporous carbon from ß-cyclodextrin nanosponges as a cathode material for Li–S batteries
+Usman Zubair, Anastasia Anceschi, Fabrizio Caldera, Mojtaba Alidoost, Julia Amici, Carlotta Francia, Marco Zanetti, Francesco Trotta, Silvia Bodoardo, Nerino Penazzi
+Journal of Solid State Electrochemistry 2017 21 (12), 3411-3420
+A High-Volumetric-Capacity Cathode Based on Interconnected Close-Packed N-Doped Porous Carbon Nanospheres for Long-Life Lithium-Sulfur Batteries
+Cheng Hu, Caroline Kirk, Qiong Cai, Carlos Cuadrado-Collados, Joaquín Silvestre-Albero, Francisco Rodríguez-Reinoso, Mark James Biggs
+Advanced Energy Materials 2017 7 (22), 1701082
+H2S + SO2 produces water-dispersed sulfur nanoparticles for lithium-sulfur batteries
+Donghai Liu, Chen Zhang, Zhao Xu, Lei Zhang, Wei Lv, Xiaolong Zou, Feiyu Kang, Linjie Zhi, Hui-Ming Cheng, Quan-Hong Yang
+Nano Energy 2017 41, 665-673
+Nitrogen-doped hierarchical porous carbon derived from metal–organic aerogel for high performance lithium–sulfur batteries
+Han Zhang, Zongbin Zhao, Yang Liu, Jingjing Liang, Yanan Hou, Zhichao Zhang, Xuzhen Wang, Jieshan Qiu
+Journal of Energy Chemistry 2017 26 (6), 1282-1290
+Metal/nanocarbon layer current collectors enhanced energy efficiency in lithium-sulfur batteries
+Jia-Qi Huang, Pei-Yan Zhai, Hong-Jie Peng, Wan-Cheng Zhu, Qiang Zhang
+Science Bulletin 2017 62 (18), 1267-1274
+Shapeable electrodes with extensive materials options and ultra-high loadings for energy storage devices
+Xiaofei Yang, Hongzhang Zhang, Yuqing Chen, Ying Yu, Xianfeng Li, Huamin Zhang
+Nano Energy 2017 39, 418-428
+A Shell-Shaped Carbon Architecture with High-Loading Capability for Lithium Sulfide Cathodes
+Sheng-Heng Chung, Pauline Han, Chi-Hao Chang, Arumugam Manthiram
+Advanced Energy Materials 2017 7 (17), 1700537
+Vertical-Aligned Li 2 S-Graphene Encapsulated within a Carbon Shell as a Free-Standing Cathode for Lithium-Sulfur Batteries
+Donghuang Wang, Xinhui Xia, Yadong Wang, Dong Xie, Yu Zhong, Jianbo Wu, Xiuli Wang, Jiangping Tu
+Chemistry - A European Journal 2017 23 (46), 11169-11174
+Sulfur redox reactions on nanostructured highly oriented pyrolytic graphite (HOPG) electrodes: Direct evidence for superior electrocatalytic performance on defect sites
+Gongwei Wang, Dong Zheng, Dan Liu, Xiao-Qing Yang, Deyang Qu
+Carbon 2017 119, 460-463
+Towards flexible lithium-sulfur battery from natural cotton textile
+Zan Gao, Yunya Zhang, Ningning Song, Xiaodong Li
+Electrochimica Acta 2017 246, 507-516
+Ultrafine Nd 2 O 3 nanoparticles doped carbon aerogel to immobilize sulfur for high performance lithium–sulfur batteries
+Xueliang Li, Luyao Zhang, Zhongqiang Ding, Yang He
+Journal of Electroanalytical Chemistry 2017 799, 617-624
+Fructose-Derived Hollow Carbon Nanospheres with Ultrathin and Ordered Mesoporous Shells as Cathodes in Lithium-Sulfur Batteries for Fast Energy Storage
+Yijun Zhong, Qian Lu, Yanping Zhu, Yinlong Zhu, Wei Zhou, Shaobin Wang, Zongping Shao
+Advanced Sustainable Systems 2017 1 (8), 1700081
+Freestanding carbon fiber cloth/sulfur composites for flexible room-temperature sodium-sulfur batteries
+Qiongqiong Lu, Xinyu Wang, Jun Cao, Chen Chen, Kena Chen, Zifang Zhao, Zhiqiang Niu, Jun Chen
+Energy Storage Materials 2017 8, 77-84
+A Flexible 3D Multifunctional MgO-Decorated Carbon Foam@CNTs Hybrid as Self-Supported Cathode for High-Performance Lithium-Sulfur Batteries
+Mingwu Xiang, Hao Wu, Heng Liu, Ju Huang, Yifeng Zheng, Li Yang, Peng Jing, Yun Zhang, Shixue Dou, Huakun Liu
+Advanced Functional Materials 2017,1702573
+A nickel-foam@carbon-shell with a pie-like architecture as an efficient polysulfide trap for high-energy Li–S batteries
+Liu Luo, Sheng-Heng Chung, Chi-Hao Chang, Arumugam Manthiram
+Journal of Materials Chemistry A 2017 5 (29), 15002-15007
+A high-efficiency N/P co-doped graphene/CNT@porous carbon hybrid matrix as a cathode host for high performance lithium–sulfur batteries
+Huali Wu, Li Xia, Juan Ren, Qiaoji Zheng, Chenggang Xu, Dunmin Lin
+Journal of Materials Chemistry A 2017 5 (38), 20458-20472
+A review of flexible lithium–sulfur and analogous alkali metal–chalcogen rechargeable batteries
+Hong-Jie Peng, Jia-Qi Huang, Qiang Zhang
+Chemical Society Reviews 2017 46 (17), 5237-5288
+Free-standing compact cathodes for high volumetric and gravimetric capacity Li–S batteries
+Cheng Hu, Caroline Kirk, Joaquín Silvestre-Albero, Francisco Rodríguez-Reinoso, Mark James Biggs
+Journal of Materials Chemistry A 2017 5 (37), 19924-19933
+Article Options
+ACS ActiveView PDF
+Hi-Res Print, Annotate, Reference QuickView
+PDF (6696 KB)
+PDF w/ Links (565 KB)
+Full Text HTML
+Abstract
+Supporting Info
+Figures
+References
+Citing Articles
+Add to Favorites
+Download Citation
+Email a Colleague
+Order Reprints
+Rights & Permissions
+Citation Alerts
+ Add to ACS ChemWorx
+SciFinder Subscribers  Sign in
+Retrieve Detailed Record of this Article
+Retrieve Substances Indexed for this Article
+Retrieve All References Cited for this Article
+Retrieve All References Citing this Article
+Explore by:
+ Author of this Article
+ Any Author
+ Research Topic
+   Search
+Metrics 
+
+Article Views: 3,052 Times
+Received 21 September 2016
+Date accepted 26 October 2016
+Published online 26 October 2016
+Published in print 22 November 2016
++Altmetric Logo IconMore Article Metrics
+
+CURRENT ISSUELATEST NEWS
+COVER STORYCover image
+C&EN’s Year in Pharma
+New science set the tone for the drug industry this year. It can be credited for a wave of investment...
+
+SCIENCE CONCENTRATESArticle Image
+Monitoring water quality after wildfires?
+The Camp Fire is the deadliest and most destructive wildfire in California’s history. The fire killed...
+
+BUSINESS CONCENTRATESArticle Image
+Low-flowing Rhine shuts BASF plant?
+Problems caused by low water levels on the Rhine River have gone from bad to worse for German chemical...
+
+POLICY CONCENTRATESArticle Image
+First gene-edited babies born, scientist claimsFirst gene-edited babies born, scientist claims
+When the powerful and simple-to-use CRISPR/Cas9 gene-editing system was invented just over six years...
+
+Masses of superheavy elements measured directly
+New experiments confirm physics at the periodic table’s frontier
+
+C&EN’s molecules of the year for 2018
+Chemistry news outlet highlights compounds that made headlines this year
+
+Catalyst chirality switched with a flash of light
+Molecular motor and chiral ligand combined to create photoresponsive catalyst
+
+Chemistry in Pictures: Shining better together
+ChemChina plant leak is identified as cause of blast that killed 23 in China
+Delivery truck was initially blamed as source of the tragedy
+
+Fipronil blamed for historical bee deaths
+Scientists urge regulators to consider bioaccumulation when approving new pesticide uses
+
+
+Reflections on 2018 from Chemical Research in Toxicology
+In many ways, this was a year like any other for Chemical Research in ...
+
+Protein Captures Lanthanide Traces
+Lanthanides were once thought to have no role in biology, but that dogma was ...
+
+Watch How Flexible Electronic Skin Could Help Humans and Machines Interact
+New research published in ACS Applied Materials & Interfaces reports the development of ultrathin, stretchable ...
+
+Starting Your Paper: When Should You Start Writing?
+Writing your research paper is as important as the research itself. It’s what people ...
+
+ACS Editors’ Choice: Enabling Wound Healing With Wearable Nanogenerators
+This week: Enabling wound healing with wearable nanogenerators — and more! Each and every day, ...
+
+Uncovering the Chemical Secrets of Burned Bones?
+Burned bones hold stories. From them, anthropologists can gather clues about how an ancient ...
+
+This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. Read the ACS privacy policy. CONTINUE
+pubs logo
+1155 Sixteenth Street N.W.
+Washington, DC 20036
+
+?ICP?13047075?-1
+
+Copyright © 2018
+American Chemical Society
+
+ 
+Products
+Journals A–Z
+eBooks
+C&EN
+C&EN Archives
+ACS Legacy Archives
+ACS Mobile
+Video
+ 
+User Resources
+About Us
+ACS Members
+Librarians
+ACS Publishing Center
+Website Demos
+Privacy Policy
+Mobile Site
+ 
+Support
+Get Help
+For Advertisers
+Institutional Sales
+Live Chat
+Partners
+ Atypon  CHORUS  COPE  COUNTER  CrossRef  CrossCheck Depositor  Orcid  Portico

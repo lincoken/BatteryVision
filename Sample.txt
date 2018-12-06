@@ -1,0 +1,101 @@
+Royal Society of Chemistry
+View PDF VersionPrevious ArticleNext Article
+
+ 
+DOI: 10.1039/C6TA08828G (Communication) J. Mater. Chem. A, 2017, 5, 942-946
+A novel device structure for a low-cost Li–S battery†
+Zhen Liu  ORCID logo*ab, Xiang Zheng ab, Ning-yi Yuan ab and Jian-ning Ding *ab 
+aThe School of Materials Science and Engineering, Jiangsu Collaborative Innovation Center of Photovolatic Science and Engineering, Changzhou University, Changzhou, 213164, Jiangsu, China. E-mail: liuzhen@cczu.edu.cn; dingjn@cczu.edu.cn 
+bJiangsu Province Cutlivation Base for State Key Laboratory of Photovolatic Science and Technology, Changzhou University, Changzhou, 213164, Jiangsu, China
+
+Received 11th October 2016 , Accepted 7th December 2016
+First published on 7th December 2016
+
+A Li–S battery based on a novel device structure was proposed, which showed a very high areal capacity of ~60 mA h cm-2. The high-capacity Li–S battery was also found to retain 75.7% initial capacity after 140 cycles at 90 mA g-1.
+
+With the advantages of high theoretical energy density and low cost, the Li–sulphur (Li–S) battery has been widely regarded as the most promising energy storage device for the next generation.1–5 As has been widely reported in the past several years, conductive host materials for the S cathode are necessary in a general Li–S battery because of the insulating property of S. To make sure that S can participate well in the electro-chemical reaction, uniform loading of S on the conductive host materials is also necessary.6–9
+In addition, one of the greatest challenges for the Li–S battery is its rapid decay of capacity during cycling, because of the loss of the S active material caused by the diffusion of the soluble polysulphide ions.10 With these considerations, a series of S/conductive host composites that can decrease the loss of S active materials has been reported.11,12
+
+However, despite the confirmation that the S composite as a cathode can obtain a long-life Li–S battery, problems still exist: (i) for most of the reported Li–S batteries, the areal capacity was below 2 mA h cm-2, meaning low practical energy density.13–16 (ii) The application of a conductive host material also means a higher cost and lower energy density. (iii) The device structure of the reported Li–S battery is similar to that of the commercialised lithium ion battery. However, compared with employing active Li as an anode, the manufacturing cost would be very high. (iv) The Li dendrite problem caused by the Li metal anode.17,18
+
+Unfortunately, based on the general battery structure, it seems that these problems cannot be easily avoided. Meanwhile, it should be noticed that the working mechanism of the S cathode is different from that of the general cathode of the Li ion battery.19–23 Thus, we turn to investigate the Li–S battery with a novel device structure.
+
+Here, we propose a Li–S battery with a novel device structure, in which the S cathode is divided into an electro-chemical reaction region (porous electrode) and a S storage region. With a Li/Al alloy anode, coin Li–S batteries based on the novel structure showed a very high areal capacity of ~60 mA h cm-2 at 30 mA g-1, corresponding to a high specific capacity of ~1150 mA h g-1. With Se as the additive, the specific capacity could retain ~600 mA h g-1 even at 120 mA g-1. The high-capacity coin cell was also found to retain 75.7% of the initial capacity after 140 cycles at 90 mA g-1. An additional benefit of the novel structure is that the manufacturing cost could be greatly decreased because of the simple manufacturing method and significantly decreased consumption of the current collector and separator. The results confirm that the Li–S battery based on the novel structure could be a promising low-cost secondary battery for the future.
+
+Fig. 1 shows the device structure and working mechanism of the novel Li–S battery. The elemental S powder was stored in the bottom of the battery, and there was no direct contact with the current collector. A porous electrode (Ni foam here) was employed as the current collector and electro-chemical reaction region. Li2S8 (0.2 M), lithium bis(trifluoromethanesulphonyl)imide (0.5 M) and LiNO3 (0.5 M) in 1,2-dimethoxyethane and 1,3-DOL (1[thin space (1/6-em)]:[thin space (1/6-em)]1 vol%) were employed as the electrolyte.
+
+
+image file: c6ta08828g-f1.tif
+Fig. 1 The device structure and working mechanism of the novel Li–S battery.	
+In the discharge process, the pre-added polysulphide ions in the electrolyte are first reduced to low-order soluble polysulphide ions (Li2S4 or Li2S6) on the porous current collector. As is indicated in the ESI (Fig. S1†), the low-order soluble polysulphide ions (Li2S4 or Li2S6) can rapidly react with the S powder to form high-order polysulphide ions (Li2S8) at room temperature. Thus, the S powder stored in the S storage region is transferred to soluble polysulphide ions and participates in the electro-chemical reaction on the current collector (Ni foam). Meanwhile, S in the S storage region is constantly consumed during the discharge, until all the S is transferred to polysulphide ions. The charge process of the novel battery is also shown in the ESI in Fig. S2 and S3.†
+
+Based on this solution “S-transport” mechanism, one of the benefits of this novel structure could be the very high areal capacity, which means a low cost and high energy density for the future Li–S battery. To confirm this point, coin cells with 50 mg S mass for a 1 cm2 current collector were fabricated and discharged at 30 mA g-1.
+
+As shown in Fig. 2, a coin cell with a high discharge capacity of up to 60 mA h cm-2 was obtained with 50 mg cm-2 S storage. The results mean a high specific capacity of ~1150 mA h g-1, and the utilisation of the S powder stored in the bottom of the coin cell was up to 68% (calculated by the S powder and S contained in the electrolyte). In comparison, a coin cell without S storage showed only 1.3 mA h cm-2 (in which only the soluble polysulphide ions was employed as the cathode active material).
+
+
+image file: c6ta08828g-f2.tif
+Fig. 2 (a) Discharge curves of the coin cell with and without 50 mg cm-2 S storage. (b) Charge and discharge curves of the coin cell with a Li/Al alloy anode and 50 mg cm-2 S storage.	
+Thus, the cathode of the Li–S battery based on the novel structure was confirmed to efficiently utilise the individually stored powder S, although with very high areal S powder mass for the current collector. This phenomenon confirmed that the individually stored S powder could participate well in the electro-chemical reaction with the help of pre-added soluble polysulphide ions.
+
+Considering that the areal discharge capacity could be increased to nearly 60 mA h cm-2, the challenge now was that the battery would be destroyed during the first charge process. As is well known, when the areal capacity is increased, long-enough Li dendrites form and easily destroy the separator. The phenomenon is also included in the ESI in Fig. S4.†
+
+Here, an Al–Li alloy powder anode was employed to resolve this problem. Al foil (30 mg cm-2) was placed between the Li foil (~20 mg cm-2) and the separator. With the help of the electrolyte, a Li/Al alloy could form slowly. After 24 hours, the battery was cycled at 30 mA g-1, and the result is shown in Fig. 2b. Compared with the battery with a Li metal anode, the battery with a Li/Al alloy anode showed excellent cycle performance, although the areal capacity was up to ~60 mA h cm-2. This phenomenon could be ascribed to the fact that the formation of the Al–Li alloy during charging could avoid the generation of Li dendrites.
+
+To confirm this issue, we investigated the chemical constituents and morphology of the anode after three discharge and charge cycles and after being charged to 3.0 V. As shown in Fig. 3a, the XRD spectrum of the anode material indicated that the anode was a Li/Al alloy and Al composite; meanwhile, there was no elemental Li and the formation of Li dendrites was avoided. Thus, the Li/Al anode could ensure the cycle performance of the novel Li–S battery even with a high areal capacity of 60 mA h cm-2.
+
+
+image file: c6ta08828g-f3.tif
+Fig. 3 (a) XRD spectrum of the alloy anode after 10 cycles. The sample was protected by a coin cell with an XRD window, and the coin cell was assembled in the glovebox. (b)–(d) SEM images of the anode after 3 cycles and washed with ethanol under Ar protection.	
+To investigate the morphology of the anode by SEM, the Li element in the powder of the anode was first removed by washing with ethanol under Ar protection. Fig. 3b–d show the SEM images of anode powder. The pre-added Al foil was found to have been crushed into micro-particles during the cycles. This is because inserting enough Li leads to dramatic changes in the volume of the Al foil and then leads to the breakup of the Al foil. As has been reported in past work, micro-sized Al particles are beneficial for decreasing the loss of the Li active material caused by volume expansion during the Li insertion process; thus, this could increase the cycle performance of the Al/Li alloy anode.
+
+We further investigate the rate performance of the novel Li–S battery, as shown in Fig. 4a. With 50 mg cm-2 S of powder, the battery (S-battery) showed a poor rate performance and the areal capacity decreased to only ~12 mA h cm-2 when the current density was increased to 120 mA g-1, corresponding to a specific capacity of only 300 mA h g-1.
+
+
+image file: c6ta08828g-f4.tif
+Fig. 4 (a) Rate performance of the S-battery and Se–S-battery. (b) and (c) Voltage profiles of the Se–S-battery and S-battery at different current densities. (d) EIS spectrum of the S–Se-battery and S-battery after 3 cycles and being charged to 3.0 V.	
+To increase the rate performance of the battery, 5% weight of the S powder was instead by Se powder (S–Se-battery, ESI Fig. S8†). The Se–S-battery showed an enhanced rate performance, as indicated in Fig. 4a. Even at 120 mA g-1, the S–Se-battery could retain a high areal capacity of ~30 mA h cm-2, corresponding to a specific capacity of ~600 mA h cm-2. When the current density decreased back to 30 mA g-1, the areal capacity was found to return to ~50 mA h cm-2, corresponding to a specific capacity of ~1000 mA h g-1.
+
+We also compared the charge and discharge curves of the S–Se-battery and S-battery at different rates, as indicated in Fig. 4b and c. The S–Se-battery could retain the second discharge plateau even when the current density increased to 120 mA g-1. In comparison, when the current density increased, the S-battery showed a poor discharge plateau and terrible charge polarisation. This phenomenon could be ascribed to the fact that part of the insoluble S, Li2S2 or Li2S generated at the end of charge and discharge coats the surface of the porous current collector, as shown in the ESI in Fig. S5,† thus leading to high resistance.
+
+However, in the S–Se-battery, the Se addition participates in the electro-chemical reaction and thus can co-deposit on the surface of the current collector with the insoluble S active materials (ESI, Fig. S6 and S9†). As has been reported, the doping of the Se element in S active materials could greatly decrease the resistance of insoluble S active materials and increase the rate performance of the battery.24
+
+To confirm this point, the EIS of the two kinds of batteries was investigated, after three cycles and being charged to 3.0 V. The results are shown in Fig. 4d; compared with the S-battery, the S–Se-battery showed much smaller charge transfer resistance and system resistance. The results confirmed that the Se additive could efficiently decrease the resistance caused by the coating of insoluble S active materials on the current collector; thus, this could enhance the rate performance of the novel Li–S battery.
+
+The stability of the battery (S–Se-battery) with a novel structure was also investigated, and the results are shown in Fig. 5. Even with very high areal capacity, the S–Se-battery showed enhanced cycle stability at 90 mA g-1, which could retain 75.7% initial capacity after 140 cycles. The coulombic efficiency of the battery was also close to 100% after the beginning of several cycles.
+
+
+image file: c6ta08828g-f5.tif
+Fig. 5 Cycle stability and coulombic efficiency of the S–Se-battery at 90 mA g-1.	
+In the traditional Li–S battery, diffusion loss of the soluble polysulphide ions is the main cause of capacity decay during cycles, and most of the reported studies have focused on resolving this problem. However, for the novel Li–S battery in this work, diffusion of the soluble polysulphide ions does not lead to apparent capacity decay because of the large S storage (50 mg cm-2) and the pre-added soluble polysulphide ions in the electrolyte. Thus, despite there being no extra steps, the Li–S battery could maintain satisfactory cycle stability.
+
+Conclusions
+We propose a novel device structure for a future Li–S battery, in which the S active materials can be transported between the S storage region and the electrode through a solution process. With the Li/Al alloy anode, the Li–S batteries based on the novel device structure showed a very high reversible areal capacity of ~60 mA h cm-2 at 30 mA g-1 and up to 68% utilisation of S stored in the bottom of the coin cell. With Se as the addition, the specific capacity could retain ~600 mA h g-1 even at 120 mA g-1. The high-capacity Li–S coin cell was also found to retain 75.7% initial capacity after 140 cycles at 90 mA g-1. In addition, based on the novel device structure, the manufacturing cost of the Li–S battery could be significantly decreased because of the following reasons: (i) the element S powder instead of the complex S/conductive host material composite was employed as the active material. (ii) The consumption of the current collector and separator was considerably decreased because of the high areal capacity. (iii) The S powder was directly loaded into the device without the coating process. The results confirm that the Li–S battery based on the novel structure could be a promising low-cost secondary battery for the future. 
+Notes and references
+Z. Li, H. B. Wu and X. W. Lou, Energy Environ. Sci., 2016, 9, 3061 CAS .
+J. T. Zhang, H. Hu, Z. Li and X. W. Lou, Angew. Chem., Int. Ed., 2016, 55, 3982 CrossRef CAS PubMed .
+Z. Li, J. T. Zhang and X. W. Lou, Angew. Chem., Int. Ed., 2015, 54, 12886 CrossRef CAS PubMed .
+X. Y. Tao, J. G. Wang, Z. G. Ying, Q. X. Cai, G. Y. Zheng, Y. P. Gan, H. Huang, Y. Xia, C. Liang, W. K. Zhang and Y. Cui, Nano Lett., 2014, 14, 5288–5294 CrossRef CAS PubMed .
+X. Y. Tao, J. G. Wang, C. Liu, H. T. Wang, H. B. Yao, G. Y. Zheng, Z. W. Seh, Q. X. Cai, W. Y. Li, G. M. Zhou, C. X. Zu and Y. Cui, Nat. Commun., 2016, 7, 11203 CrossRef CAS PubMed .
+H. B. Wu, S. Wei, L. Zhang, R. Xu, H. H. Hng and X. W. Lou, Chem.–Eur. J., 2013, 19, 10804–10808 CrossRef CAS PubMed .
+Z. Wang, Y. Dong, H. Li, Z. Zhao, H. Bin Wu, C. Hao, S. Liu, J. Qiu and X. W. Lou, Nat. Commun., 2014, 5, 5002 CrossRef CAS PubMed .
+L. Qie and A. Manthiram, ACS Energy Lett., 2016, 1, 46 CrossRef CAS .
+J. Zhou, L. Yu, M. Sun, S. Yang, F. Ye, J. He and Z. Hao, Ind. Eng. Chem. Res., 2013, 52, 9586–9593 CrossRef CAS .
+A. Manthiram, Y. Fu, S.-H. Chung, C. Zu and Y.-S. Su, Chem. Rev., 2014, 114, 11751–11787 CrossRef CAS PubMed .
+J. Zheng, J. Tian, D. Wu, M. Gu, W. Xu, C. Wang, F. Gao, M. H. Engelhard, J.-G. Zhang and J. Liu, Nano Lett., 2014, 14, 2345–2352 CrossRef CAS PubMed .
+G. Zhou, S. Pei, L. Li, D. W. Wang, S. Wang, K. Huang, L. C. Yin, F. Li and H. M. Cheng, Adv. Mater., 2014, 26, 625–631 CrossRef CAS PubMed .
+Z. Liu, X.-H. Zhang and C.-S. Lee, J. Mater. Chem. A, 2014, 2, 5602 CAS .
+H. J. Peng, J. Q. Huang, M. Q. Zhao, Q. Zhang, X. B. Cheng, X. Y. Liu, W. Z. Qian and F. Wei, Adv. Funct. Mater., 2014, 24, 2772–2781 CrossRef CAS .
+Z. Liu, X. Zheng, S. L. Luo, S. Q. Xu, N. Y. Yuan and J. N. Ding, J. Mater. Chem. A, 2016, 4, 13395 CAS .
+Z. Li, J. T. Zhang, M. C. Chen, J. Li and X. W. Lou, Nat. Commun., 2015, 6, 8850 CrossRef CAS PubMed .
+C. Huang, J. Xiao, Y. Shao, J. Zheng, W. D. Bennett, D. Lu, S. V. Laxmikant, M. Engelhard, L. Ji, G. L. Graff and J. Liu, Nat. Commun., 2014, 5, 3015 Search PubMed .
+J. Guo, Y. Xu and C. Wang, Nano Lett., 2011, 11, 4288 CrossRef CAS PubMed .
+N. Jayaprakash, J. Shen, S. S. Moganty, A. Corona and L. A. Archer, Angew. Chem., Int. Ed., 2011, 50, 5904–5908 ( Angew. Chem. , 2011 , 123 , 6026–6030 ) CrossRef CAS PubMed .
+H. Al Salem, G. Babu, C. V. Rao and L. M. Arava, J. Am. Chem. Soc., 2015, 137, 11542–11545 CrossRef CAS PubMed .
+S. S. Zhang, J. Power Sources, 2013, 231, 153–162 CrossRef CAS .
+D. Bresser, F. Mueller, D. Buchholz, E. Paillard and S. Passerini, Electrochim. Acta, 2014, 128, 163–171 CrossRef CAS .
+M. He, L. X. Yuan, W. X. Zhang and Y. H. Huang, J. Solid State Electrochem., 2013, 17, 1641–1647 CrossRef CAS .
+X. N. Li, J. W. Liang, K. L. Zhang, Z. G. Hou, W. Q. Zhang, Y. C. Zhu and Y. T. Qian, Energy Environ. Sci., 2015, 8, 3181 CAS .
+Footnote
+† Electronic supplementary information (ESI) available: Details of the experiment; the charge process and the rapid reaction between high order polysulfide ions and Li2S; the rapid reaction between low order polysulfide ions and S powder; SEM of the porous current collector before and after cycles. Charge curves of the battery with a Li metal anode. See DOI: 10.1039/c6ta08828g
+This journal is © The Royal Society of Chemistry 2017
