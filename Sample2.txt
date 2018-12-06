@@ -1,0 +1,398 @@
+Skip to main content
+Journals & BooksRegisterSign in
+You have institutional access
+ Download PDF
+
+Search ScienceDirect
+Advanced
+Outline
+Highlights
+Abstract
+Graphical abstract
+Keywords
+1. Introduction
+2. Experimental section
+3. Results and discussion
+4. Conclusion
+Acknowledgments
+Appendix A. Supplementary data
+References
+Figures (7)
+Unlabelled figure
+Fig. 1. Schematic illustration of roles of the proposed Fe3C@NPCS composite cathode…
+Fig. 2. The SEM (a) and TEM images (b) of the Fe3C@NPCS at low magnification, inset:…
+Fig. 3. UV–vis spectra and visual images (insert) of the polysulfide solution after…
+Fig. 4. The High-angle annular dark-field scanning transmission electron microscopy…
+Fig. 5. Cyclic voltammogram (CV) of the electrodes made with (a) Fe3C@NPCS-S and (b)…
+Extras (1)
+Supplementary data 1
+Elsevier
+Chemical Engineering Journal
+Volume 358, 15 February 2019, Pages 962-968
+Chemical Engineering Journal
+Polar and conductive iron carbide@N-doped porous carbon nanosheets as a sulfur host for high performance lithium sulfur batteries
+Author links open overlay panelYazhouWangabMengLiaLichunXucTianyuTangbZeeshanAlibXiaoxiaoHuangbYanglongHoubShanqingZhanga
+Show more
+https://doi.org/10.1016/j.cej.2018.10.086Get rights and content
+Highlights
+•
+A facile one-pot carbonizing process is used to synthesize Fe3C nanocomposite.
+
+•
+Fe3C nanoparticles is embedded in nitrogen-doped porous carbon sheets.
+
+•
+Polysulfides is confined by strong Fe-S chemical bonds.
+
+•
+Conductive Fe3C facilitate fast electrochemical reactions.
+
+•
+The resultant Li-S battery deliver high performance and stability.
+
+
+Abstract
+The practical application of Li-S batteries is inherently limited by the low conductivity of sulfur and the dissolution of polysulfides. The enhancement of conductivity and introduction of polarity to the sulfur host is an effective strategy to overcome these long-standing challenges. In this work, a facile one-step carbonizing process is used to synthesize a unique porous and conductive nanocomposite where Fe3C nanoparticles are embedded in nitrogen-doped porous carbon sheets (Fe3C@NPCS). As demonstrated in Li2S4 adsorption experiments and confirmed by density functional theory calculations, Fe3C nanoparticles are able to strongly adsorb polysulfides via strong Fe-S chemical bonds. Due to the remarkable conductivity, Fe3C nanoparticles can also accelerate the electrochemical reactions of the polysulfides through fast electron transportation. The carbon sheets prevent the aggregation of Fe3C nanoparticles and accommodate sulfur and its volume expansion during charge/discharge processes. With these features, the resultant sulfur cathodes (Fe3C@NPCS-S) deliver an excellent cycling performance with a capacity decay of 0.036% per cycle, and high rate performance of ca. 1127, 1020, 907, 802, 731 and 647?mAh?g-1 under current densities of 0.3, 0.5, 1, 2, 3 and 5?C, respectively.
+
+Graphical abstract
+
+Download high-res image (158KB)Download full-size image
+
+Previous article in issueNext article in issue
+Keywords
+Lithium sulfur batteriesFe3C nanoparticlesShuttle effectCarbon nanosheet
+1. Introduction
+With increasing demand for renewable energy facilities, electric vehicles and portable devices, next-generation energy storage technologies with high capacity and long life have been attracting intensive research interest [1], [2], [3]. Lithium sulfur batteries are considered a promising option because of their high theoretical capacity of ca. 1600?mAh?g-1 and high theoretical energy density of ca. 2500?Wh?kg-1[4]. However, the commercialization of lithium sulfur batteries faces several key challenges including low sulfur utilization, poor coulombic efficiency and rapid capacity fading [5], [6].
+
+To overcome these challenges, various sulfur hosts have been proposed to confine the soluble intermediate lithium polysulfide species (Li2Sx 6?<?x?<?8) and facilitate the electrochemical redox reactions during charge/discharge processes. Intensive research on a wide spectrum of porous carbon hosts has established that the carbonaceous pores can encapsulate the sulfur and accommodate the electrochemical transformation between sulfur and lithium polysulfide [7], [8], [9], [10], [11], [12], [13]. However, the carbon materials lack strong interfacial interactions with the lithium polysulfide species because the carbon materials are commonly non-polar while polysulfides are polar [14], [15], [16], [17], [18], [19]. Another strategy is to improve the polarity of the carbon materials by heteroatom doping and using polar material as adsorption materials, such as metal oxide. In this regard, various metal oxides have been trialed to suppress the shuttle effect and prolong the lifetime of Li-S batteries, including TiO2, SiO2, Al2O3, MnO2, and Co3O4[20], [21], [22], [23], [24]. These oxide materials can inhibit the migration of polysulfides by the chemical adsorption of the polysulfides. Unfortunately, most metal oxides are not good electronic conductors. The subsequent electrochemical conversion reaction on the metal oxides is impeded due to slow electron transfer, leading to low sulfur utilization [25], [26], [27], [28], [29].
+
+The ideal sulfur host offers dual functions to resolve these inherent problems, i.e. strong chemical adsorption ability to suppress the migrating polysulfides and high conductivity to collect current from the accelerated electrochemical conversion reactions. Carbonaceous materials can be polarized by N doping and embedding polar nanoparticles, enhancing the chemical interactions with the lithium polysulfide species [30], [31], [32]. Iron carbide (Fe3C) is a robust material that has attracted increasing attention because of its abundance and low cost, and more importantly, its inherent characteristics of high electronic conductivity due to it being a metal-like material [33], [34]. Furthermore, Fe3C could be an effective polysulfide adsorbent if strong Fe-S bonds can be formed between Fe3C and polysulfides [35], [36]. Herein, a facile one-step carbonizing process is used to synthesize a porous and conductive nanocomposite where Fe3C nanoparticles are embedded onto nitrogen-doped porous carbon sheets (i.e. Fe3C@NPCS). The carbon sheets allow even distribution of the Fe3C nanoparticles and facilitate excellent conductivity as a bulk, which is beneficial to sulfur hosts (Fig. 1). The polysulfide species can be chemically adsorbed onto the Fe3C nanoparticles due to the strong chemical interaction between Fe and S as proven in density functional theory (DFT) calculations. In other words, the Fe3C@NPCS offers dual functions i.e. suppress the shuttle effect to accelerate electron transfer of the electrochemical reactions, resulting in improved charge/discharge capacity in high current density and prolonged Li-S battery lifetimes.
+
+
+Download high-res image (150KB)Download full-size image
+Fig. 1. Schematic illustration of roles of the proposed Fe3C@NPCS composite cathode during the charge/discharge processes: improved polarity retains sulfur and polysulfides and enhanced conductivity accelerates the electrochemical reactions in the cathodic chamber.
+
+2. Experimental section
+2.1. Material synthesis
+The Fe3C@NPCS was synthesized by a facile approach, in which urea (10?g), glucose (0.5?g), iron (III) chloride hexahydrate (FeCl3·6H2O) (0.1?g), and DI water (100?mL) were stirred at 90?°C until the precursors have been deposited. The co-deposited precursors were placed into a crucible and then heated to 800?°C at a rate of 5?°C?min-1 for 2?h in N2 atmosphere. For comparison, preparation of nitrogen-doped porous carbon sheets (NPCS) were synthesized via the same method without the addition of FeCl3·6H2O.
+
+The Fe3C@NPCS-S composite was first prepared by mixing the Fe3C@NPCS and pure sulfur (weight ratio of Fe3C@NPCS: S was 1:3) in CS2 solution. Then, the mixture was gradually evaporated by ultrasonic dispersion. Second, the dried mixture was pressed into a cylindrical shape with a 5-mm diameter by a mold. Finally, the products were heat-treated in Ar atmosphere at 130?°C for 4?h to obtain Fe3C@NPCS-S composites. The NPCS-S composites were synthesized via the same method by using NPCS.
+
+2.2. Structure characterization
+Structural analyses were performed using (i) high-resolution X-ray diffractometer (XRD) with Cu-Ka radiations on a PANalytical X’Pert3; (ii) scanning electron microscope (SEM) on JEOL JSM-7001F; (iii) transmission electron microscopy (TEM) and energy dispersive spectrum (EDS) mapping using a FEI Tecnai F30 TEM (operating at 300?kV); and (iv) X-ray photoelectron spectroscopy (XPS) on Axis Ultra imaging photoelectron spectrometer with the monochromatic Al Ka line (Al Ka, hv?=?1486.7?eV). All the collected spectra were calibrated with C 1s peak at 284.8?eV, and analysed using CasaXPS software. The thermal stability of the samples was monitored using a thermogravimetric analysis (SDT Q600, TA instruments) from 30 to 600?°C under nitrogen with a heating rate of 10?°C/min. Nitrogen sorption isotherms were measured utilizing the Quantachrome Autosorb-IQ instrument at 77?K.
+
+2.3. Electrode fabrication and electrochemical characterization
+The positive electrode consists of 80?wt% as-prepared compounds, 10?wt% carbon black and 10?wt% polyvinylidene fluoride (PVDF) as a binder. These materials were dispersed in N-methyl-2-pyrrolidinone (NMP), and the resultant slurry was coated onto an aluminium foil, which was used as the cathode electrode (c.a. 1.5?mg?cm-2 sulfur loading) during the electrochemical measurements. The electrode was cut into circular discs with a diameter of 12.9?mm and compact density of 1.2?g?cm-3. The electrolyte was 1?M LiN(CF3SO2)2 (LiTFSI) dissolved in a mixture of 1,3-dioxolane (DOL) and dimethoxymethane (DME) (1:1 by volume) with 0.1?M LiNO3 additives used as electrolyte. All the simulated coin-type cells (CR2032) were assembled with lithium metal as the negative electrode in an argon-filled M-Braun box. The cyclic voltammogram (CV) measurements were carried out at room temperature on a 660e electrochemical station (CHI China). The electrochemical tests were carried out by a fully automatic program test instrument (LAND, China), with constant current and voltage ranging from 2.8 to 1.8?V (vs. Li/Li+).
+
+2.4. Density functional theory calculations
+The first principle calculations were evaluated through spin-polarized density functional theory as implemented in the Vienna Ab initio Simulation Package (VASP) with the projected augmented wave (PAW) approach and generalized gradient approximation by Perdew-Burke-Ernzerhof with a Hubbard U correction. The plane-wave energy cut-off was set as 520?eV. A 15.1?Å?×?13.4?Å supercell of (0?0?1) surface of Fe3C with 8 atom layers and a G-centred Monkhorst-Pack 3?×?3?×?1 grids in k-point sampling were used. The vacuum distance larger than 13?Å was applied in calculations to remove the interaction between successive slabs. In structural optimization, the lower six atomic layers of the slabs were fixed while allowing other atoms to fully relax until the force was converged to 0.01?eV/Å.
+
+3. Results and discussion
+The Fe3C@NPCS was prepared by a carbonization process, where the glucose and urea were pyrolyzed to the nitrogen-doped porous carbon sheets. Meanwhile, the Fe3C nanoparticles were obtained via the reduction and carbonization of FeCl3 at high temperature. As shown in the scanning electron microscopy (SEM) and transmission electron microscopy (TEM) images, the flexible carbon sheets display a fluffy and corrugated morphology and Fe3C nanoparticles (c.a. 10–60?nm as shown in Fig. S1 the size distribution histograms) are uniformly embedded in the carbon sheets (Fig. 2a and b). In addition, the weight ratio of Fe3C is c.a. 66.5% on Fe3C@NPCS according to the TG analysis (Fig. S2). Without introduction of the FeCl3 into the precursors, the NPCS illustrates a similar layered nanosheet morphology (see the SEM and TEM image in Fig. S3) obtained by the same high temperature pyrolysis process. The elemental composition of the Fe3C@NPCS is illustrated by energy dispersive X-ray spectroscopy (EDS) mapping (Fig. 2c). A uniform distribution of Fe and N elements on the carbon sheet is clearly observed due to the dispersed Fe3C nanoparticles and doped N atoms. A distinguishable lattice spacing of 0.22?nm (see Fig. 2b insert) corresponds to the (2?1?1) plane of Fe3C phase. This is in line with observation of X-ray diffraction (XRD) patterns where the diffraction peaks are characteristic of the crystalline planes of Fe3C phase (JCPDS, No. 65-2411). In addition, the rest diffraction peak at 26.1° suggests the formation of graphitic carbon at high temperature. The NPCS illustrates a high Brunauer-Emmett-Teller (BET) specific area of 556.3?m2?g-1 as shown in Fig. S4. In contrast, the specific area of Fe3C@NPCS decreases to 359.3?m2?g-1 due to the high density of Fe. The pore size distribution in Fe3C@NPCS and NPCS show a broad distribution of micro- and mesopores, with sizes ranging from 0 to 50?nm. This porous structure is mainly presented by the carbon matrix, which could accommodate and confine the lithium polysulfide species.
+
+
+Download high-res image (590KB)Download full-size image
+Fig. 2. The SEM (a) and TEM images (b) of the Fe3C@NPCS at low magnification, inset: high magnification TEM image of the Fe3C nanoparticles; the SEM and EDS mapping images of Fe3C@NPCS including the C, Fe and N elements (c); the XRD patterns of Fe3C@NPCS and Fe3C standard reference (d); the survey (e) and high resolution N1S (f) XPS spectra of Fe3C@NPCS and NPCS.
+
+The chemical structure of the Fe3C@NPCS nanocomposite is further investigated by the x-ray photoelectron spectroscopy (XPS) as shown in Fig. 2e. The survey spectra clearly indicate the presence of iron (Fe), carbon (C), nitrogen (N), and oxygen (O) without any other element. The results of the elemental analysis (see Table S1) reveal that the atomic concentration of N decreases in the presence of Fe3C nanoparticles. This is attributed to the fact that Fe metal can drastically eliminate nitrogen in the carbonization process at high temperature [37]. There are four types of C illustrated in the C 1s spectra (see Fig. S5), where the major carbon composition is graphitic C with a binding energy of 284.6?eV. The other types of carbon are identified as sp3 C bonding with N or O (at 285.6?eV), aromatic C bonding with N or O (at 287.1?eV) and carboxyl C (OCO at 289.4?eV). In the high-resolution analysis of N 1s, four types of doped elemental N are identified corresponding to pyridinic N at 398.4?eV, pyrrolic N at 399.8?eV, graphitic N at 400.9?eV, and absorbed N species at 402.1?eV as shown in the N spectrum (Fig. 2f) [30]. The atomic concentrations of different N dopants are qualified based on the peak integration and summarized in Table S2. In comparison with the NPCS, the Fe3C@NPCS has a higher ratio of pyridinic N to graphitic N, as Fe3C nanoparticles could produce more edge sites in the carbon nanosheets which can accommodate pyridinic-type atoms. It has been reported that pyridinic-type N doping can improve adsorption of the polysulfide species for carbon-based materials [38], [39].
+
+The adsorption ability of the sulfur host to polysulfide is important for the suppression of capacity fading. To identify the contribution of Fe3C and NPCS to polysulfide adsorption, the adsorption ability of the Fe3C@NPCS and NPCS powder was tested in an ex-situ adsorption experiment using an ultraviolet–visible (UV–vis) spectrometer. An equivalent amount of Fe3C@NPCS and NPCS were separately added to a lithium polysulfide (Li2S4) solution (1?M in DME). As shown in Fig. 3a, the peak of the UV–vis spectra is identified as Li2S4[40]. When exposed to the Fe3C@NPCS nanocomposite, the absorbance peak of the Li2S4 solution drops rapidly, suggesting decreasing Li2S4 concentration. After 30?min, the UV–vis spectra indicate that the Li2S4 was completely eliminated. This is in line with the observation of a clear solution in the digital photograph. In contrast, the Li2S4 solution with NPCS remained light yellow as illustrated in Fig. 3b. Therefore, the adsorption results strongly suggest the Fe3C nanoparticles can effectively trap lithium polysulfide species, while the NPCS illustrated a neglectable adsorption ability on lithium polysulfide. Also, the Fe3C@NPCS also have an effective adsorption ability to Li2S8 (see Fig. S6a), suggesting that it could trap all kinds of polysulfide anionic species during the lithium sulfur charge and discharge. This strong adsorption ability of Fe3C nanoparticles was further investigated by density functional theory calculations on the interaction between lithium polysulfides and Fe3C. As shown in Fig. 3c, the (1?0?0) surface of Fe3C was chosen to study the adsorption behavior of lithium polysulfide species (Li2S and Li2S2). The binding energy (Eb) is defined by:
+where  is the energy of the clean Fe3C (1?0?0) surface,  is the energy of the lithium sulfide species and  is the total energy of the surface of Fe3C bonded with different sulfide species. The calculated binding energy of the Li2S and Li2S2 to the Fe3C (1?0?0) surface are 4.87?eV and 6.37?eV, respectively. These binding energies are much larger than the adsorption binding energies for Li-S composites on graphene (<1?eV) [41], [42], [43]. In addition, after the adsorption of lithium sulfide species, the Fe-S bonding peak at 706.0?eV can be found in the Fe 2p3/2 XPS spectra (see Fig. S6b), confirming the DFT result of strong Fe-S interactions. This strong adsorption ability of Fe3C@NPCS could efficiently suppress the shuttle effect for Li-S batteries as a sulfur host.
+
+
+Download high-res image (334KB)Download full-size image
+Fig. 3. UV–vis spectra and visual images (insert) of the polysulfide solution after exposure to Fe3C@NPCS (a) and NPCS (b) in a time lapse; (c) the first-principle calculations suggest the adsorption configuration of Li2S and Li2S2 on the Fe3C surface (the Eb represents binding energy between Fe3C (1?0?0) surface and lithium polysulfide species).
+
+Fe3C@NPCS-S and NPCS-S composites were fabricated by a melt diffusion method as cathode materials for lithium sulfur batteries. The sulfur content is c.a. 74.5?wt% in these hybrids as shown in the thermogravimetry results (see Fig. S7). The scanning transmission electrons microscopy (STEM) image (Fig. 4a) clearly reveals the morphology of Fe3C@NPCS-S. After sulfur loading, the layered and ridged morphology is retained, where sulfur is uniformly deposited on the Fe3C@NPCS composite. The elemental mappings in Fig. 4b indicate that the C, N and Fe mappings are totally in accordance with the morphology of the Fe3C@NPCS nanocomposite and the uniform distributions of sulfur. In addition, the XRD pattern (Fig. 4c) also corresponds to the incorporation of sulfur for Fe3C nanoparticles.
+
+
+Download high-res image (567KB)Download full-size image
+Fig. 4. The High-angle annular dark-field scanning transmission electron microscopy (HAADF-STEM) image (a) and EDX elemental mapping image (b) of Fe3C@NPCS-S; (c) the XRD pattern of Fe3C@NPCS-S.
+
+Fe3C@NPCS-S and NPCS-S were used to fabricate Li-S batteries as cathode materials using an identical assembly process of coin cells and their electrochemical properties investigated. The electrochemical performance of the Fe3C@NPCS-S and NPCS-S electrodes was first investigated by cyclic voltammogram (CV) measurements as illustrated in Fig. 5a and b. In the first cycle, two reductive peaks were observed at c.a. 2.31?V and 2.02?V. The first reduction peak is generated by the conversion of sulfur into a series of intermediate long-chain lithium polysulfides (S8???S82-???S62-???S42-) with lithiation and charge transfer. The peak at 2.02?V resulted from the formation of short-chain sulfide species (S42-???S22-???S2-) by further lithiation. In the following cathodic process, an oxidation peak at 2.45?V corresponded to the oxidation process from S2- to S [44]. In the following cycles, the reductive peaks positively shifted to a higher position, resulting in a decreased potential separation of redox waves.
+
+
+Download high-res image (466KB)Download full-size image
+Fig. 5. Cyclic voltammogram (CV) of the electrodes made with (a) Fe3C@NPCS-S and (b) NPCS-S for the first six cycles at a scan rate of 0.1?mV?s-1; (c) charge and discharge curves and (d) rate cycling performance with corresponding Columbic efficiency of the Fe3C@NPCS-S and NPCS-S electrodes at constant current of 0.2, 0.3, 0.5, 1, 2, 3, 5?C.
+
+This suggests a reduced polarization after the first activation cycle. It is worth noting that the overlapping of subsequent CV profiles indicated good reversibility. In contrast, as shown in Fig. 5b, the CV profiles of NPCS-S illustrate an additional peak shoulder at anodic current between 2.5 and 3?V implying the occurrence of a serious shuttle effect, and much broader redox peaks and larger voltage hysteresis (see Fig. S8) due to its high polarization and poor reversibility. In accordance with the CV profiles, the two plateaus in the galvanostatic charge and discharge profile are related to the transformation from the long-chain polysulfide to the short-chain polysulfide species. It is noted that the Fe3C@NPCS-S has a lower overpotential and a longer voltage plateau than NPCS-S. These results reveal that the Fe3C nanoparticles play an important role in simultaneously facilitating the electrochemical reaction and stabilizing the soluble polysulfides within the carbon matrix simultaneously.
+
+The rate performance is determined by the charge/discharge measurement at constant current density ranging from 0.2 to 5?C over the voltage range of 3.0–1.5?V (see Fig. 5c). The Fe3C@NPCS-S electrodes delivered a discharge capacity of c.a. 1251?mAh?g-1 at 0.2?C. The capacity of the Fe3C@NPCS-S electrode remained ca. 1127, 1020, 907, 802, 731 and 647?mAh?g-1 under the current densities of 0.3, 0.5, 1, 2, 3 and 5?C, respectively. In contrast, the NPCS-S electrode illustrates a lower specific capacity and a larger overpotential at different current densities (see Fig. S9). This indicates that the introduction of conductive Fe3C nanoparticles enhances the electrochemical reaction kinetics through a catalytic effect on decomposition lithium disulfide. The cycling rate performance of the Fe3C@NPCS-S and NPCS-S electrodes was compared as shown in Fig. 5d. The rate performance of Fe3C@NPCS-S electrode was superior to the NPCS-S electrode from 0.2 to 5?C. When the current rate goes back to 0.5?C, the capacity has fully recovered to 964?mAh?g-1. The rate capability is commonly associated with the electrochemical kinetics, internal resistance and charge transfer [45]. Electrochemical impedance spectra (EIS) were generated to further investigate the electrochemical resistence of the Fe3C@NPCS-S and NPCS-S electrodes (see Fig. S10 and Table S3). The Fe3C@NPCS-S electrode illustrates a much lower charge-transfer resistance than NPCS-S, suggesting improved electrochemical kinetics and therefore, high rate capacities.
+
+The cycling capacity and corresponding coulombic efficiency of the cells with Fe3C@NPCS-S and NPCS-S electrodes were determined for 300 cycles at 0.5?C. As shown in Fig. 6a, the Fe3C@NPCS-S delivered an initial discharge capacity of c.a. 1150?mAh?g-1. The corresponding initial columbic efficiency of Fe3C@NPCS-S was 92.38%. The initial irreversible capacity could be attributed to the decomposition of electrolyte to form the SEI layer and the loss of sulfur due to the shuttle effect [46]. The columbic efficiency of Fe3C@NPCS-S returned to 99.5% and remained above 99% during the 300 cycles. In contrast, the initial columbic efficiency of NPCS-S only reached c.a. 70.13%, and kept decreasing from 98.9% to 96.6% in the following cycles. In addition, the discharge capacity of NPCS-S rapidly declined from c.a. 988?mAh?g-1 to c.a. 299?mAh?g-1 with a capacity decay of 0.232% per cycle. This rapid capacity fading is not only due to the serious shuttle effect, but also slow electrochemical reactions [47], [48]. The discharge capacity of Fe3C@NPCS-S gradually declined to c.a. 676?mAh?g-1 with the capacity decay of 0.135% per cycle. The charge/discharge current density was increased to up to 2?C to further investigate the long-term and high-rate cycling performance (up to 1500 cycles and under 2?C) of the Fe3C@NPCS-S and NPCS-S electrodes (see Fig. 6b). After the initial five cycles, the cycling capacity reached a maximum value of c.a. 828?mAh?g-1 and 627?mAh?g-1 for the Fe3C@NPCS-S and NPCS-S electrodes, respectively. The Fe3C@NPCS-S illustrates a better cycling performance with a capacity decay of 0.036% per cycle compared with the NPCS-S (0.055% per cycle). To investigate the structural evolution after charge/discharge cycling, the morphological characterizations of Fe3C@NPCS-S electrode after 100 cycles at 1C were carried out by using the SEM (Fig. S11). After 100 charge/discharge cycles, there is no morphology change on Fe3C@NPCS-S electrode, suggesting the good structual stability. Such a remarkable performance can be attributed to the Fe3C effectively suppressing the shuttle effect to deal with capacity fading, due to its strong adsorption of polysulfide species.
+
+
+Download high-res image (321KB)Download full-size image
+Fig. 6. Cycling capacity and corresponding Columbic efficiency of the Fe3C@NPCS-S and NPCS-S electrodes at the current density of (a) 0.5?C and (b) 2?C.
+
+4. Conclusion
+A sulfur host, Fe3C@NPCS nanocomposite was prepared by a one-step carbonization method. The Li2S4 adsorption experiment and DFT calculations suggest that polar Fe3C nanoparticles facilitate strong adsorption to polysulfides. The improved conductivity of the conductive Fe3C nanoparticles accelerates the electrochemical reaction kinetics of Li-S batteries. As a result, the Fe3C@NPCS nanocomposite could suppress the shuttle effect and deliver remarkable electrochemical performance. Both the rate performance and cycling stability of lithium sulfur batteries are significantly improved with the Fe3C@NPCS sulfur host. Our results demonstrate that the enhancement of polarity and conductivity of the sulfur host is an effective strategy in the design and fabrication of sulfur host materials for high performance lithium sulfur batteries.
+
+Acknowledgments
+The authors acknowledge the financial support from Australia Research Council Discovery Projects, National Natural Science Foundation of China (51590882, 51125001) and The State key Project of Research and Development of China (2016YFA0200102), the microscopic analysis support from the Center for Microscopy and Microanalysis at the University of Queensland.
+
+Appendix A. Supplementary data
+The following are the Supplementary data to this article:
+Download Word document (5MB)Help with docx files
+Supplementary data 1.
+
+
+References
+[1]
+M. Wang, C. Jiang, S. Zhang, X. Song, Y. Tang, H.-M. Cheng
+Reversible calcium alloying enables a practical room-temperature rechargeable calcium-ion battery with a high discharge voltage
+Nat. Chem., 10 (2018), pp. 667-672
+CrossRefView Record in ScopusGoogle Scholar
+[2]
+J. Zhang, H. Zhong, C. Zheng, Y. Xia, C. Liang, H. Huang, Y. Gan, X. Tao, W. Zhang
+All-solid-state batteries with slurry coated LiNi0.8Co0.1Mn0.1O2 composite cathode and Li6PS5Cl electrolyte: effect of binder content
+J. Power Sources, 391 (2018), pp. 73-79
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[3]
+M. Wang, Y. Tang
+A review on the features and progress of dual-ion batteries
+Adv. Energy Mater., 8 (2018), p. 1703320
+Google Scholar
+[4]
+Y.-X. Yin, S. Xin, Y.-G. Guo, L.-J. Wan
+Lithium–sulfur batteries: electrochemistry, materials, and prospects
+Angew. Chem. Int. Ed., 52 (2013), pp. 13186-13200
+CrossRefView Record in ScopusGoogle Scholar
+[5]
+R. Fang, S. Zhao, Z. Sun, D.-W. Wang, H.-M. Cheng, F. Li
+More reliable lithium-sulfur batteries: status, solutions and prospects
+Adv. Mater. (2017), Article 1606823
+CrossRefGoogle Scholar
+[6]
+H. Zhao, N. Deng, J. Yan, W. Kang, J. Ju, Y. Ruan, X. Wang, X. Zhuang, Q. Li, B. Cheng
+A review on anode for lithium-sulfur batteries: progress and prospects
+Chem. Eng. J., 347 (2018), pp. 343-365
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[7]
+J. Schuster, G. He, B. Mandlmeier, T. Yim, K.T. Lee, T. Bein, L.F. Nazar
+Spherical ordered mesoporous carbon nanoparticles with high porosity for lithium-sulfur batteries
+Angew. Chem., 124 (2012), pp. 3651-3655
+CrossRefView Record in ScopusGoogle Scholar
+[8]
+G. He, X. Ji, L. Nazar
+High “C” rate Li-S cathodes: sulfur imbibed bimodal porous carbons
+Energy Environ. Sci., 4 (2011), pp. 2878-2883
+CrossRefView Record in ScopusGoogle Scholar
+[9]
+W. Yazhou, H. Xiaoxiao, Z. Shanqing, H. Yanglong, Sulfur hosts against the shuttle effect, Small Methods 0 1700345.
+Google Scholar
+[10]
+W. Ren, W. Ma, S. Zhang, B. Tang
+Nitrogen-doped carbon fiber foam enabled sulfur vapor deposited cathode for high performance lithium sulfur batteries
+Chem. Eng. J., 341 (2018), pp. 441-449
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[11]
+L. Zhang, H. Huang, Y. Xia, C. Liang, W. Zhang, J. Luo, Y. Gan, J. Zhang, X. Tao, H.J. Fan
+High-content of sulfur uniformly embedded in mesoporous carbon: a new electrodeposition synthesis and an outstanding lithium–sulfur battery cathode
+J. Mater. Chem. A, 5 (2017), pp. 5905-5911
+CrossRefView Record in ScopusGoogle Scholar
+[12]
+C. Xu, Y. Wu, X. Zhao, X. Wang, G. Du, J. Zhang, J. Tu
+Sulfur/three-dimensional graphene composite for high performance lithium–sulfur batteries
+J. Power Sources, 275 (2015), pp. 22-25
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[13]
+Y. Zhong, X. Xia, S. Deng, J. Zhan, R. Fang, Y. Xia, X. Wang, Q. Zhang, J. Tu
+Popcorn inspired porous macrocellular carbon: rapid puffing fabrication from rice and its applications in lithium-sulfur batteries
+Adv. Energy Mater., 8 (2018), p. 1701110
+CrossRefGoogle Scholar
+[14]
+Y. Qiu, W. Li, W. Zhao, G. Li, Y. Hou, M. Liu, L. Zhou, F. Ye, H. Li, Z. Wei, S. Yang, W. Duan, Y. Ye, J. Guo, Y. Zhang
+High-rate, ultralong cycle-life lithium/sulfur batteries enabled by nitrogen-doped graphene
+Nano Lett., 14 (2014), pp. 4821-4827
+CrossRefView Record in ScopusGoogle Scholar
+[15]
+Q. Pang, X. Liang, C.Y. Kwok, L.F. Nazar
+Advances in lithium–sulfur batteries based on multifunctional cathodes and electrolytes
+Nat. Energy, 1 (2016), p. 16132
+Google Scholar
+[16]
+P. Zeng, L. Huang, X. Zhang, R. Zhang, L. Wu, Y. Chen
+Long-life and high-areal-capacity lithium-sulfur batteries realized by a honeycomb-like N, P dual-doped carbon modified separator
+Chem. Eng. J., 349 (2018), pp. 327-337
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[17]
+Y. Xia, H. Zhong, R. Fang, C. Liang, Z. Xiao, H. Huang, Y. Gan, J. Zhang, X. Tao, W. Zhang
+Biomass derived Ni(OH)2@porous carbon/sulfur composites synthesized by a novel sulfur impregnation strategy based on supercritical CO2 technology for advanced Li-S batteries
+J. Power Sources, 378 (2018), pp. 73-80
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[18]
+R. Fang, C. Liang, Y. Xia, Z. Xiao, H. Huang, Y. Gan, J. Zhang, X. Tao, W. Zhang
+Supercritical CO2 mediated incorporation of sulfur into carbon matrix as cathode materials towards high-performance lithium–sulfur batteries
+J. Mater. Chem. A, 6 (2018), pp. 212-222
+CrossRefGoogle Scholar
+[19]
+J. Zhang, H. Huang, J. Bae, S.-H. Chung, W. Zhang, A. Manthiram, G. Yu
+Nanostructured host materials for trapping sulfur in rechargeable Li–S batteries: structure design and interfacial chemistry
+Small Methods, 2 (2018), p. 1700279
+CrossRefView Record in ScopusGoogle Scholar
+[20]
+Z. Wei Seh, W. Li, J.J. Cha, G. Zheng, Y. Yang, M.T. McDowell, P.-C. Hsu, Y. Cui
+Sulphur–TiO2 yolk–shell nanoarchitecture with internal void space for long-cycle lithium–sulphur batteries
+Nat. Commun., 4 (2013), p. 1331
+Google Scholar
+[21]
+X. Liang, L.F. Nazar
+In situ reactive assembly of scalable core-shell sulfur-MnO2 composite cathodes
+ACS Nano, 10 (2016), pp. 4192-4198
+CrossRefView Record in ScopusGoogle Scholar
+[22]
+X. Wang, G. Li, J. Li, Y. Zhang, A. Wook, A. Yu, Z. Chen
+Structural and chemical synergistic encapsulation of polysulfides enables ultralong-life lithium-sulfur batteries
+Energy Environ. Sci., 9 (2016), pp. 2533-2538
+CrossRefView Record in ScopusGoogle Scholar
+[23]
+Z. Chang, H. Dou, B. Ding, J. Wang, Y. Wang, X. Hao, D.R. MacFarlane
+Co3O4 nanoneedle arrays as a multifunctional “super-reservoir” electrode for long cycle life Li-S batteries
+J. Mater. Chem. A (2017)
+Google Scholar
+[24]
+J. Zhang, Y. Shi, Y. Ding, W. Zhang, G. Yu
+In situ reactive synthesis of polypyrrole-MnO2 coaxial nanotubes as sulfur hosts for high-performance lithium-sulfur battery
+Nano Lett, 16 (2016), pp. 7276-7281
+CrossRefView Record in ScopusGoogle Scholar
+[25]
+H.-J. Peng, G. Zhang, X. Chen, Z.-W. Zhang, W.-T. Xu, J.-Q. Huang, Q. Zhang
+Enhanced electrochemical kinetics on conductive polar mediators for lithium-sulfur batteries
+Angew. Chem. Int. Ed., 55 (2016), pp. 12990-12995
+CrossRefView Record in ScopusGoogle Scholar
+[26]
+R. Fang, S. Zhao, Z. Sun, D.-W. Wang, R. Amal, S. Wang, H.-M. Cheng, F. Li
+Polysulfide immobilization and conversion on a conductive polar MoC@MoOx material for lithium-sulfur batteries
+Energy Storage Mater., 10 (2018), pp. 56-61
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[27]
+Z. Li, L. Yin
+Nitrogen-doped MOF-derived micropores carbon as immobilizer for small sulfur molecules as a cathode for lithium sulfur batteries with excellent electrochemical performance
+ACS Appl. Mater. Interfaces, 7 (2015), pp. 4029-4038
+CrossRefView Record in ScopusGoogle Scholar
+[28]
+Y. Peng, Y. Zhang, Z. Wen, Y. Wang, Z. Chen, B.-J. Hwang, J. Zhao
+Constructing fast electron and ion conductive framework for Li2S as advanced lithium sulfur battery
+Chem. Eng. J., 346 (2018), pp. 57-64
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[29]
+H. Yuan, X. Chen, G. Zhou, W. Zhang, J. Luo, H. Huang, Y. Gan, C. Liang, Y. Xia, J. Zhang, J. Wang, X. Tao
+Efficient activation of Li2S by transition metal phosphides nanoparticles for highly stable lithium-sulfur batteries
+ACS Energy Lett., 2 (2017), pp. 1711-1719
+CrossRefView Record in ScopusGoogle Scholar
+[30]
+H.-J. Peng, T.-Z. Hou, Q. Zhang, J.-Q. Huang, X.-B. Cheng, M.-Q. Guo, Z. Yuan, L.-Y. He, F. Wei
+Strongly coupled interfaces between a heterogeneous carbon host and a sulfur-containing guest for highly stable lithium-sulfur batteries: mechanistic insight into capacity degradation
+Adv. Mater. Interfaces, 1 (2014), p. 1400227
+CrossRefGoogle Scholar
+[31]
+Y. Xia, R. Fang, Z. Xiao, H. Huang, Y. Gan, R. Yan, X. Lu, C. Liang, J. Zhang, X. Tao, W. Zhang
+Confining sulfur in N-doped porous carbon microspheres derived from microalgaes for advanced lithium-sulfur batteries
+ACS Appl. Mater. Interfaces, 9 (2017), pp. 23782-23791
+CrossRefView Record in ScopusGoogle Scholar
+[32]
+J. Zhang, Y. Shi, Y. Ding, L. Peng, W. Zhang, G. Yu
+A conductive molecular framework derived Li2S/N,P-codoped carbon cathode for advanced lithium–sulfur batteries
+Adv. Energy Mater., 7 (2017), p. 1602876
+CrossRefView Record in ScopusGoogle Scholar
+[33]
+X.L. Dong, Z.D. Zhang, Q.F. Xiao, X.G. Zhao, Y.C. Chuang, S.R. Jin, W.M. Sun, Z.J. Li, Z.X. Zheng, H. Yang
+Characterization of ultrafine ?-Fe(C), a-Fe(C) and Fe3C particles synthesized by arc-discharge in methane
+J. Mater. Sci., 33 (1998), pp. 1915-1919
+CrossRefView Record in ScopusGoogle Scholar
+[34]
+X. Song, S. Wang, G. Chen, T. Gao, Y. Bao, L.-X. Ding, H. Wang
+Fe-N-doped carbon nanofiber and graphene modified separator for lithium-sulfur batteries
+Chem. Eng. J., 333 (2018), pp. 564-571
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[35]
+Y. Mi, W. Liu, K.R. Yang, J. Jiang, Q. Fan, Z. Weng, Y. Zhong, Z. Wu, G.W. Brudvig, V.S. Batista, H. Zhou, H. Wang
+Ferrocene-promoted long-cycle lithium-sulfur batteries
+Angew. Chem., 128 (2016), pp. 15038-15042
+CrossRefView Record in ScopusGoogle Scholar
+[36]
+Z. Liu, L. Zhou, Q. Ge, R. Chen, M. Ni, W. Utetiwabo, X. Zhang, W. Yang
+Atomic iron catalysis of polysulfide conversion in lithium-sulfur batteries
+ACS Appl. Mater. Interfaces, 10 (2018), pp. 19311-19317
+CrossRefView Record in ScopusGoogle Scholar
+[37]
+T.-F. Hung, M.-H. Tu, C.-W. Tsai, C.-J. Chen, R.-S. Liu, W.-R. Liu, M.-Y. Lo
+Influence of pyrolysis temperature on oxygen reduction reaction activity of carbon-incorporating iron nitride/nitrogen-doped graphene nanosheets catalyst
+Int. J. Hydrogen Energy, 38 (2013), pp. 3956-3962
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[38]
+J. Song, T. Xu, M.L. Gordin, P. Zhu, D. Lv, Y.-B. Jiang, Y. Chen, Y. Duan, D. Wang
+Nitrogen-doped mesoporous carbon promoted chemical adsorption of sulfur and fabrication of high-areal-capacity sulfur cathode with exceptional cycling stability for lithium-sulfur batteries
+Adv. Funct. Mater., 24 (2014), pp. 1243-1250
+CrossRefView Record in ScopusGoogle Scholar
+[39]
+J. Song, Z. Yu, M.L. Gordin, D. Wang
+Advanced sulfur cathode enabled by highly crumpled nitrogen-doped graphene sheets for high-energy-density lithium-sulfur batteries
+Nano Lett., 16 (2016), pp. 864-870
+CrossRefView Record in ScopusGoogle Scholar
+[40]
+M.U. Patel, R. Demir-Cakan, M. Morcrette, J.M. Tarascon, M. Gaberscek, R. Dominko
+Li-S battery analyzed by UV/Vis in operando mode
+ChemSusChem, 6 (2013), pp. 1177-1181
+CrossRefView Record in ScopusGoogle Scholar
+[41]
+Q. Pang, D. Kundu, L.F. Nazar
+A graphene-like metallic cathode host for long-life and high-loading lithium-sulfur batteries
+Mater. Horiz., 3 (2016), pp. 130-136
+CrossRefView Record in ScopusGoogle Scholar
+[42]
+C. Zheng, S. Niu, W. Lv, G. Zhou, J. Li, S. Fan, Y. Deng, Z. Pan, B. Li, F. Kang, Q.-H. Yang
+Propelling polysulfides transformation for high-rate and long-life lithium–sulfur batteries
+Nano Energy, 33 (2017), pp. 306-312
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[43]
+Q. Pang, X. Liang, C.Y. Kwok, J. Kulisch, L.F. Nazar
+A comprehensive approach toward stable lithium–sulfur batteries with high volumetric energy density
+Adv. Energy Mater., 7 (2017), p. 1601630
+CrossRefView Record in ScopusGoogle Scholar
+[44]
+K. Cao, L. Jiao, H. Liu, Y. Liu, Y. Wang, Z. Guo, H. Yuan
+3D Hierarchical porous a-Fe2O3 nanosheets for high-performance lithium-ion batteries
+Adv. Energy Mater., 5 (2015), p. 1401421
+CrossRefGoogle Scholar
+[45]
+Y. Wang, X. Shao, H. Xu, M. Xie, S. Deng, H. Wang, J. Liu, H. Yan
+Facile synthesis of porous LiMn2O4 spheres as cathode materials for high-power lithium ion batteries
+J. Power Sources, 226 (2013), pp. 140-148
+ArticleDownload PDFView Record in ScopusGoogle Scholar
+[46]
+P. Poizot, S. Laruelle, S. Grugeon, L. Dupont, J.M. Tarascon
+Nano-sized transition-metal oxides as negative-electrode materials for lithium-ion batteries
+Nature, 407 (2000), pp. 496-499
+View Record in ScopusGoogle Scholar
+[47]
+M. Chen, E. Zhao, Q. Yan, Z. Hu, X. Xiao, D. Chen
+The effect of crystal face of Fe2O3 on the electrochemical performance for lithium-ion batteries
+Sci. Rep., 6 (2016), p. 29381
+Google Scholar
+[48]
+W.-J. Yu, L. Zhang, P.-X. Hou, F. Li, C. Liu, H.-M. Cheng
+High reversible lithium storage capacity and structural changes of Fe2O3 nanoparticles confined inside carbon nanotubes
+Adv. Energy Mater., 6 (2016), p. 1501755
+CrossRefGoogle Scholar
+Crown Copyright © 2018 Published by Elsevier B.V. All rights reserved.
+
+Recommended articles
+Metal-organic framework-74-Ni/carbon nanotube composite as sulfur host for high performance lithium-sulfur batteries
+Journal of Electroanalytical Chemistry, Volumes 830–831, 2018, pp. 43-49
+Download PDFView details
+Fiber network composed of interconnected yolk-shell carbon nanospheres for high-performance lithium-sulfur batteries
+Nano Energy, Volume 54, 2018, pp. 50-58
+Download PDFView details
+On the mechanistic role of nitrogen-doped carbon cathodes in lithium-sulfur batteries with low electrolyte weight portion
+Nano Energy, Volume 54, 2018, pp. 116-128
+Download PDFView details
+12Next
+Citing articles (0)
+About ScienceDirectRemote accessShopping cartContact and supportTerms and conditionsPrivacy policy
+
+We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the use of cookies.
+
+Copyright © 2018 Elsevier B.V. or its licensors or contributors. ScienceDirect ® is a registered trademark of Elsevier B.V.
+
